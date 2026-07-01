@@ -1,0 +1,40 @@
+name: TD Global Policy Watch
+
+on:
+  schedule:
+    # Runs every 6 hours. Cron is UTC. Adjust as needed.
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}   # lets you trigger a run manually from the GitHub UI
+
+permissions:
+  contents: write   # needed to commit updated state back to the repo
+  issues: write     # needed to open an issue (-> triggers your notification email)
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run global policy watch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python3 td-global-policy-watch.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "td-policy-watch-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state/ latest-digest.md
+          git diff --quiet --cached || git commit -m "Policy watch update $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
