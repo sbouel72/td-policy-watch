@@ -91,6 +91,28 @@ NOISE_PATTERNS = [
 ]
 
 MAX_ITEMS_PER_QUERY = 15  # keep it bounded per query
+RECENCY_WINDOW_DAYS = 14  # only alert on items published within this window
+MAX_ISSUE_BODY_CHARS = 60000  # stay safely under GitHub's 65536 limit
+
+
+def parse_pub_date(pub_date_str: str):
+    """Parse RFC 822-style pubDate from Google News RSS. Returns None on failure."""
+    from email.utils import parsedate_to_datetime
+    try:
+        dt = parsedate_to_datetime(pub_date_str)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt
+    except Exception:
+        return None
+
+
+def is_recent(pub_date_str: str, window_days: int = RECENCY_WINDOW_DAYS) -> bool:
+    dt = parse_pub_date(pub_date_str)
+    if dt is None:
+        return False  # unparseable date -- treat as not-recent rather than risk false alerts
+    age = datetime.now(timezone.utc) - dt
+    return age.days <= window_days
 
 
 def log(line: str):
@@ -102,7 +124,16 @@ def load_json(path, default):
     if not os.path.exists(path):
         return default
     with open(path) as f:
-        return json.load(f)
+        content = f.read()
+    if not content.strip():
+        raise ValueError(
+            f"{path} exists but is empty. This usually means a file copy didn't "
+            f"actually transfer content (0 bytes). Check with: wc -c {path}"
+        )
+    try:
+        return json.loads(content)
+    except json.JSONDecodeError as e:
+        raise ValueError(f"{path} is not valid JSON: {e}") from e
 
 
 def save_json(path, data):
@@ -154,21 +185,29 @@ def fetch_news(topic: str, hl: str, gl: str) -> list:
 
 
 def run_news_scan(seen: dict) -> list:
-    """Returns list of NEW items not seen in a prior run."""
+    """Returns list of NEW and RECENT items not seen in a prior run.
+    All fetched items are recorded as seen regardless of age, so stale
+    backlog items (which can resurface in RSS ordering) never re-trigger
+    an alert later -- but only recent items are surfaced as alertable now.
+    """
     new_items = []
     for topic in TOPICS:
         for hl, gl in JURISDICTIONS:
             items = fetch_news(topic, hl, gl)
             for it in items:
                 key = it["link"]
-                if key not in seen:
-                    seen[key] = {
-                        "title": it["title"],
-                        "first_seen": datetime.now(timezone.utc).isoformat(),
-                        "topic": topic,
-                        "jurisdiction": gl,
-                    }
+                if key in seen:
+                    continue
+                seen[key] = {
+                    "title": it["title"],
+                    "first_seen": datetime.now(timezone.utc).isoformat(),
+                    "topic": topic,
+                    "jurisdiction": gl,
+                    "pub_date": it["pub_date"],
+                }
+                if is_recent(it["pub_date"]):
                     new_items.append(it)
+                # else: recorded as seen, but not surfaced -- backlog, not signal
     return new_items
 
 
@@ -262,7 +301,10 @@ def build_digest(new_news_items: list, bill_changes: list) -> str:
 
 def maybe_open_github_issue(digest: str, has_content: bool):
     """If running inside GitHub Actions with a token and there's new content,
-    open an issue so a notification email goes out. No-ops otherwise."""
+    open an issue so a notification email goes out. No-ops otherwise.
+    Truncates the body if needed -- GitHub's API rejects issue bodies over
+    65536 characters; the full digest always remains in latest-digest.md
+    regardless of what fits in the issue."""
     if not has_content:
         return
     token = os.environ.get("GITHUB_TOKEN")
@@ -271,14 +313,31 @@ def maybe_open_github_issue(digest: str, has_content: bool):
         log("  (not running in GitHub Actions with a token -- skipping issue creation, digest still written to file)")
         return
     import requests  # local import; only needed in this path
+
+    body = digest
+    if len(body) > MAX_ISSUE_BODY_CHARS:
+        cutoff = body[:MAX_ISSUE_BODY_CHARS]
+        # cut at the last full line so we don't split mid-item
+        cutoff = cutoff.rsplit("\n", 1)[0]
+        body = (
+            cutoff
+            + f"\n\n---\n_Truncated at {MAX_ISSUE_BODY_CHARS} characters "
+              f"({len(digest)} total). Full digest: see latest-digest.md in the repo._"
+        )
+
     url = f"https://api.github.com/repos/{repo}/issues"
     headers = {"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json"}
     payload = {
         "title": f"TD Policy Watch — {datetime.now(timezone.utc).strftime('%Y-%m-%d')}",
-        "body": digest,
+        "body": body,
         "labels": ["policy-watch"],
     }
     r = requests.post(url, headers=headers, json=payload, timeout=30)
+    if r.status_code == 422 and "label" in r.text.lower():
+        # label doesn't exist on repo yet -- retry once without it rather than losing the alert
+        log("  label 'policy-watch' rejected, retrying without labels...")
+        payload.pop("labels")
+        r = requests.post(url, headers=headers, json=payload, timeout=30)
     if r.status_code >= 300:
         log(f"  ERROR opening GitHub issue: {r.status_code} {r.text[:300]}")
     else:
