@@ -1,13 +1,13 @@
-# TD Global Policy Watch — 2026-07-04 08:34 UTC
+# TD Global Policy Watch — 2026-07-04 13:19 UTC
 
-## New worldwide signal items (3)
+## New worldwide signal items (5)
 _Unverified news signal — check each before citing in an episode._
 
-### AU
-- [MP's emotional speech follows PM's forced adoption apology - MSN](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVW5iWk1PTXNKcVl1cUNFa1J5dGhlbmNrMG9sSlA1cDF6N1p3U2kwcUZvN1JPT2hxZTFfa3NXZDFId2FPTHRHVE85aTJLMzhTUEJYeC13X0V1Y1pqVlVNMldMaDl3N29nVGd6UmhKaFNaQVVGM095X2IxaFBXRGhZQlZoRnBLUG5wS3Rpc0Fvbnp3REZYbFZlc080WEFJY2o5alBaWXBWU0xGaC1FVW1QcnFxUXpSV21BUmtqRGN1cEFhaVU3OXNNNVFvY1dfYm5ISWxMRl9qOWZIaVVjM3pfbnBZUzR4Y0ExVDZLdEhrdGNuWTFUaGlpSQ?oc=5) — MSN (Fri, 03 Jul 2026 22:28:09 GMT) — topic: _forced adoption apology_
-
-### NZ
-- [Reform MP says her mother took forced adoption secret ‘to her grave’ - Stroud News and Journal](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaGlPRnVqTkNjdzNfWGZLWWpGNG1UNi1GbW8xeXhMdmpKTXZjS2g0ZGw5bVotNERScGhPbERyd296UGRnemxLRFFub2pheGE0UHdkMlo0anMxOWhCUlZ6b2pmcXZub1VBSXFPMTFyc3QxMEpFQm9IZ09ZMDBMS0VCSFNJSHU0MWI2dUpzSnRENWtkemJlYnJlU1hSWEFfdGZkaWxQX0laYWhER0xGdTJmZHB2REU1enQ3NWJPRERn?oc=5) — Stroud News and Journal (Thu, 02 Jul 2026 16:07:13 GMT) — topic: _closed adoption records reform_
+### CA
+- ['Government's forced adoption apology is too late' - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fck5xR3dOWElKRDdMT2h3NjN5clJpZkxhendNVkQ0NVJmeGdQMlpWQWdCazVDMUE5WkstQUpiaWpwOXRxRUxUT2tJNXMwTTRqdEdCcE0za0NRUQ?oc=5) — BBC (Fri, 03 Jul 2026 04:40:40 GMT) — topic: _forced adoption apology_
+- [Starmer says forced adoptions a 'stain on our history', as he gives formal apology - Yahoo](https://news.google.com/rss/articles/CBMiowFBVV95cUxQN0EtOXROZVZLVXQ5YmRjRmJvOGxVMGJlSWNNNFZST1loMnVfRXpvTnp0VEsxTjByRGt6ejdzQzlvZ0luRk1HRlNZUVVra2RZYUhXT3hpeUxYNEcwN001SW85bFZfY21PZklWeTZVTUh4NGI1WFdpMTFXenM5Z2ZJdkgyaDN6dTNJVUNJSzhxZzRoZW5BRjhWbmtFYV9pdU43X0l3?oc=5) — Yahoo (Thu, 02 Jul 2026 12:02:57 GMT) — topic: _forced adoption apology_
+- ['PM's forced adoption apology did not go far enough' - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WUk55OURhTTFBZkpwNk9IVGlHRzZBNDVMZjNGS2d2NGxyUXZWYWgyWkppWUZHMldXX2xlRXdxM0gwMHdRN2gtcFB5cnZwTlJ2RVlaYzRoczlDQQ?oc=5) — BBC (Thu, 02 Jul 2026 16:22:00 GMT) — topic: _forced adoption apology_
 
 ### US
-- [Compensate victims of forced adoption after apology, governments told - AOL.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxPNEFvREZseXowemxJOVpWb2JOdEQwYUhma3lON3AySkk2dExlWUZ0dDFaYzFrWmctQ1JEQlVzVS1fSlluXzRSUU5aUXNaODdLM3NZeWU1V0MzanpjNHJtVGwzUlphMWFTR1NTaWNCa1dUakpkZnFaUm9fNFM5Mk5aQ3BsWEIxVmhoUmc?oc=5) — AOL.com (Fri, 03 Jul 2026 10:29:40 GMT) — topic: _forced adoption apology_
+- ['PM's forced adoption apology did not go far enough' - AOL.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxOT1pFS0lJYVRqOGwtWTg4OF9nTENiSDB4TmJlcUV4ZXJVU3dFZ2cwaThHSXZuel9ZWWdPR1h0TUY2cV9xNzhlUklzWjVvaGFLc1prWnZqZ291aWxzdDdndno1eGNFUmtmUm1INjQ4REV2OFBndWM3d1BPMnhPM19URQ?oc=5) — AOL.com (Thu, 02 Jul 2026 17:32:55 GMT) — topic: _forced adoption apology_
+- [MP's emotional speech follows PM's forced adoption apology - MSN](https://news.google.com/rss/articles/CBMirwJBVV95cUxPVW5VZ0k1dEViVmFNcDgyMjFoa0FWTmt4WTZ0ay16VGEwcjBVZlBFZm5xcDlzRnV5VWpMS19YYktnckhJWExhVTBPMGpfTXNIN0NwbWdyT1BETXJSdHdxUzBSdjQwWHF3cEtwQy1sZ3ZXSDZ6eFJzNHJWcTRkMnJ2OVhmeUY3V211X0VUcndBZHZRbU5nZ0NvbnBzUWRmcUE3LVJzWkw0MThCS0VqbklzYnlTNnBnQXlJRHIwQjNzQ1hiazdXdXVDZ1hMZDlxdy02TjVkX1VUMVNtRmRhSU9UcUI0RnZRYTVzS2pfcmsxZW1HQWoxUF9zSEwxcVFkVERoZWgwZHNySWNjdjBzenVkYkk3YUw3em9Hdmp0YUwxaDNhUDNGYi1mTmhhU1l4dVU?oc=5) — MSN (Thu, 02 Jul 2026 16:17:06 GMT) — topic: _closed adoption records reform_
