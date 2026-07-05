@@ -1,10 +1,11 @@
-# TD Global Policy Watch — 2026-07-05 02:50 UTC
+# TD Global Policy Watch — 2026-07-05 08:49 UTC
 
-## New worldwide signal items (2)
+## New worldwide signal items (3)
 _Unverified news signal — check each before citing in an episode._
 
-### IE
-- [Video. Starmer issues state apology for decades of forced adoptions in UK - Euronews](https://news.google.com/rss/articles/CBMiwAFBVV95cUxONjdCb0p4QjNKd0ViM0NsdTgzX2tER2VzNEt1dGw0YUhTYkxTbWFxR1NpeWtPaXJhd0djQmtlVGNkNG80MEJyXy1FZlY5N1ZVX2djREdpQXVLemZJdEFjcThHLVJTNWVlc2EwVHhURlVHeG1UTUgtcWZqOVFoNkpFN0VYTkNRX0Rjb2FOa0xZbkNnY2RiS1RlMnoySEZrczVhLUtRX1hEUl9ZZVJfc2VpZDFkS2IxRFNOdzg5UHV2aFE?oc=5) — Euronews (Thu, 02 Jul 2026 13:18:26 GMT) — topic: _forced adoption apology_
+### AU
+- ['Government's forced adoption apology is too late' - Yahoo](https://news.google.com/rss/articles/CBMioAFBVV95cUxPZXRSQ0Q1UEI5ZTRoTGEzMXQyXzAydXdZa0E2WHpRV3JKbFVPaDRNWUVlQ1JCemNmS2hndGJpR1BpbUdBS0JnZTNoVUxiQXltVDFwSHVzSDhUQWlxMDcxZE1wNFg5ajhLd2tRd3NiREZYNGxDekNoZUtYMnZLOGpCdi1EQmFaYnBmVDduczZGTHdZdWs1eGZmZ09BYkNfS0pI?oc=5) — Yahoo (Fri, 03 Jul 2026 04:40:00 GMT) — topic: _forced adoption apology_
 
-### US
-- [UK and Dutch governments apologize for forced adoptions - Jurist.org](https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHRXTjZmRDZ4TTdGMEdteFhGdW5xTnBKQUh0c2Vuc2FYUGp2bXIyMlZsZDJsbFBSQmFTTG00c2JpaEx1OTJRSkxmalNkWkdHc0Yyc2o3LXFGN2VXdGVLRHZVUlZxV1hyQmR3cU94TzZaY1JKcjJwNXJhVkh1RW53d1hybWctaXl4bFFjTWFmUWxxTjNFWExn?oc=5) — Jurist.org (Sat, 04 Jul 2026 19:45:37 GMT) — topic: _forced adoption apology_
+### GB
+- [Compensate victims of forced adoption after apology, governments told - The National Scot](https://news.google.com/rss/articles/CBMisgFBVV95cUxObGF2ek80SzlJVVpuaFVQZ2JtZWRYZEp6NVY4X2ZDSnA2STlCbVJEQWJKQWx1Q2M2ZnZpXzVQVUlwM3M2N2FvQlFfWHRGS1R3bHNqTnhIU3R0ZFo0VE1md0V4ck4wejJYRzNXTG9jbXdVeUVKZWJWeWtRazExaUNYbF93bW43TWtJSkxQcEJKeThpa3BTSWdkSTg5QUgydHpma3FDY1Rqd3FwUG1kem5pMXVB?oc=5) — The National Scot (Thu, 02 Jul 2026 20:27:03 GMT) — topic: _forced adoption apology_
+- [Forced Adoption: Starmer's apology in full - ITVX](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSE1lZmJKcXlNa3pweE9rWE1LS0pYajFBZ3F5T3h3amFaUVV0dkxXVUo4dHZDZDBtUjJWZGxIRkZQczhDV3V2cXI3bUpjQTdBbnJ1TDhkUWhhNTZVRmpGU0M0NzVSSHRTQ0FhT3dSa3RudFpfd3dnaFZ0bWJpQlhmVlVR?oc=5) — ITVX (Thu, 02 Jul 2026 12:03:29 GMT) — topic: _forced adoption apology_
