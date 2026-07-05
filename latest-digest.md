@@ -1,11 +1,11 @@
-# TD Global Policy Watch — 2026-07-05 08:49 UTC
+# TD Global Policy Watch — 2026-07-05 13:25 UTC
 
 ## New worldwide signal items (3)
 _Unverified news signal — check each before citing in an episode._
 
 ### AU
-- ['Government's forced adoption apology is too late' - Yahoo](https://news.google.com/rss/articles/CBMioAFBVV95cUxPZXRSQ0Q1UEI5ZTRoTGEzMXQyXzAydXdZa0E2WHpRV3JKbFVPaDRNWUVlQ1JCemNmS2hndGJpR1BpbUdBS0JnZTNoVUxiQXltVDFwSHVzSDhUQWlxMDcxZE1wNFg5ajhLd2tRd3NiREZYNGxDekNoZUtYMnZLOGpCdi1EQmFaYnBmVDduczZGTHdZdWs1eGZmZ09BYkNfS0pI?oc=5) — Yahoo (Fri, 03 Jul 2026 04:40:00 GMT) — topic: _forced adoption apology_
+- [A name, a document, a future: Cameroon’s fight to register every child - Al Jazeera](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ2lBaktaY2hBSnRQUnpHdGZuU19fODkwVjkxSEtQcUJqTHREa2hGaE1GNjJDaGtjam9mQ1dvVDIyVy1WbVItb3AwM25mN0w2eVJSRU5tSXJKcmx3VHVoZF9hMnBNc0M3b1BxYm5SQTJWbjlFNndNM0dCeDR6QW94ZGZabFh4eGtvU1pqZlhyLVdfbFJ3a0otbWNCaFI2bjFtd3FJQUdHOURrZ9IBrwFBVV95cUxOYkZKdzNqdlh5YXpKX2ttTHNBYjkzcm1rSGdfemxkMVNuV2dDNE04SWJkNjFLNHVmUWk4OTl3cUplcVljX1h6c0JOT19jeUJVaHRERzJiMmRwb2ExWDVsdEhOWnF2OUl3N0VfdzJXdzMyY1RvbnR0RlZoM0Ntc1gxMmxRaEFCVFlSVzdqRERTRUpPYU9oMkdaMWhBbDFnQ0hTQVlmUkJDRE1udU5CS0Iw?oc=5) — Al Jazeera (Sun, 05 Jul 2026 04:06:43 GMT) — topic: _birth parent registry law_
+- [Reform MP says her mother took forced adoption secret ‘to her grave’ - AOL.com](https://news.google.com/rss/articles/CBMic0FVX3lxTFB6MmRBN1RFcWVpWHY0M3ZFaWc4RW9CcmlvYnh3TFdIS2hZQW5VWnVmX0pkT3ZDbVFzWl9vUnpJSWhVdGg2RlluZFRDNDEyTjBuTXNMdmNpY05fVnk3OWlXUDJVR3VHdXJkUTRsdFp3RW9wTjA?oc=5) — AOL.com (Fri, 03 Jul 2026 01:21:18 GMT) — topic: _closed adoption records reform_
 
 ### GB
-- [Compensate victims of forced adoption after apology, governments told - The National Scot](https://news.google.com/rss/articles/CBMisgFBVV95cUxObGF2ek80SzlJVVpuaFVQZ2JtZWRYZEp6NVY4X2ZDSnA2STlCbVJEQWJKQWx1Q2M2ZnZpXzVQVUlwM3M2N2FvQlFfWHRGS1R3bHNqTnhIU3R0ZFo0VE1md0V4ck4wejJYRzNXTG9jbXdVeUVKZWJWeWtRazExaUNYbF93bW43TWtJSkxQcEJKeThpa3BTSWdkSTg5QUgydHpma3FDY1Rqd3FwUG1kem5pMXVB?oc=5) — The National Scot (Thu, 02 Jul 2026 20:27:03 GMT) — topic: _forced adoption apology_
-- [Forced Adoption: Starmer's apology in full - ITVX](https://news.google.com/rss/articles/CBMiggFBVV95cUxOSE1lZmJKcXlNa3pweE9rWE1LS0pYajFBZ3F5T3h3amFaUVV0dkxXVUo4dHZDZDBtUjJWZGxIRkZQczhDV3V2cXI3bUpjQTdBbnJ1TDhkUWhhNTZVRmpGU0M0NzVSSHRTQ0FhT3dSa3RudFpfd3dnaFZ0bWJpQlhmVlVR?oc=5) — ITVX (Thu, 02 Jul 2026 12:03:29 GMT) — topic: _forced adoption apology_
+- ['Shame is ours', Starmer tells forced adoption survivors in formal apology as he brands scandal 'a stain on our history' - lbc.co.uk](https://news.google.com/rss/articles/CBMikwFBVV95cUxOam0yRVZxMW5yVTBkaDN4aE5vZ05SelFjaGtYUHVpRk9qOFVlMzZ3bUlhUXhJbEd3TlZFRGJkeW5MdUpocmZ5SGN3Qkkta25zZTZvRzFxRXB5a0pPajRvdHlNQlRlM3E3dDRtclhfR3NsbVRtbjJ2Zy1LRUoxSFpCRjM5RVFvRDZhUUFQUmh6V01EaEk?oc=5) — lbc.co.uk (Thu, 02 Jul 2026 13:06:19 GMT) — topic: _forced adoption apology_
