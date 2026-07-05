@@ -1,11 +1,13 @@
-# TD Global Policy Watch — 2026-07-05 13:25 UTC
+# TD Global Policy Watch — 2026-07-05 19:14 UTC
 
 ## New worldwide signal items (3)
 _Unverified news signal — check each before citing in an episode._
 
-### AU
-- [A name, a document, a future: Cameroon’s fight to register every child - Al Jazeera](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ2lBaktaY2hBSnRQUnpHdGZuU19fODkwVjkxSEtQcUJqTHREa2hGaE1GNjJDaGtjam9mQ1dvVDIyVy1WbVItb3AwM25mN0w2eVJSRU5tSXJKcmx3VHVoZF9hMnBNc0M3b1BxYm5SQTJWbjlFNndNM0dCeDR6QW94ZGZabFh4eGtvU1pqZlhyLVdfbFJ3a0otbWNCaFI2bjFtd3FJQUdHOURrZ9IBrwFBVV95cUxOYkZKdzNqdlh5YXpKX2ttTHNBYjkzcm1rSGdfemxkMVNuV2dDNE04SWJkNjFLNHVmUWk4OTl3cUplcVljX1h6c0JOT19jeUJVaHRERzJiMmRwb2ExWDVsdEhOWnF2OUl3N0VfdzJXdzMyY1RvbnR0RlZoM0Ntc1gxMmxRaEFCVFlSVzdqRERTRUpPYU9oMkdaMWhBbDFnQ0hTQVlmUkJDRE1udU5CS0Iw?oc=5) — Al Jazeera (Sun, 05 Jul 2026 04:06:43 GMT) — topic: _birth parent registry law_
-- [Reform MP says her mother took forced adoption secret ‘to her grave’ - AOL.com](https://news.google.com/rss/articles/CBMic0FVX3lxTFB6MmRBN1RFcWVpWHY0M3ZFaWc4RW9CcmlvYnh3TFdIS2hZQW5VWnVmX0pkT3ZDbVFzWl9vUnpJSWhVdGg2RlluZFRDNDEyTjBuTXNMdmNpY05fVnk3OWlXUDJVR3VHdXJkUTRsdFp3RW9wTjA?oc=5) — AOL.com (Fri, 03 Jul 2026 01:21:18 GMT) — topic: _closed adoption records reform_
-
 ### GB
-- ['Shame is ours', Starmer tells forced adoption survivors in formal apology as he brands scandal 'a stain on our history' - lbc.co.uk](https://news.google.com/rss/articles/CBMikwFBVV95cUxOam0yRVZxMW5yVTBkaDN4aE5vZ05SelFjaGtYUHVpRk9qOFVlMzZ3bUlhUXhJbEd3TlZFRGJkeW5MdUpocmZ5SGN3Qkkta25zZTZvRzFxRXB5a0pPajRvdHlNQlRlM3E3dDRtclhfR3NsbVRtbjJ2Zy1LRUoxSFpCRjM5RVFvRDZhUUFQUmh6V01EaEk?oc=5) — lbc.co.uk (Thu, 02 Jul 2026 13:06:19 GMT) — topic: _forced adoption apology_
+- [Reform MP says her mother took forced adoption secret ‘to her grave’ - Wandsworth Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWkpPamFxaDZEOGVvOHI1b2NFN2ZwdGtYRGpkSkRkX0xPQ2wtdEJ1eklkY3lsYi1Xc2t5SGtGbngtWkNGajhsTkRMZ2VkeW85Q3p5U1JoZ0lieTJOV1M3ZnNRMTQ0M0g1SE94aFpyYU5QWC01NUp1QmhlT2NMWjkzMTVYT0FLd25kTUFLRkV1a0ZIM0U1dHZuZTBLdGtoZlZiWU5pemVpSWNyNU1IcTFQR1hCUlk0R0VXNm5v?oc=5) — Wandsworth Times (Thu, 02 Jul 2026 16:07:13 GMT) — topic: _closed adoption records reform_
+
+### IE
+- [Apologies are welcome – but Forced Adoption victims need more than words, says campaigner - The Sunday Post](https://news.google.com/rss/articles/CBMilgFBVV95cUxOaFptNUhnN0c4NGlzNGo3eDBEX21xT1Z4ckR3LTc0aEFRYkNVUjVkcDZDZTZiRnRPNDIzUmlDQndLSEh4ek50Y0hqc1J5a0h3QUs0NG9lQmhYV1V5LVpPdTY4TjVteDIzM1dDMzVSSlpDM3lxU0pJdUZBM2dYcWRzaDVObFZWZENzUEdGSmJSdU91TkIzYkE?oc=5) — The Sunday Post (Sun, 05 Jul 2026 13:02:06 GMT) — topic: _forced adoption apology_
+
+### US
+- [Reform MP says her mother took forced adoption secret ‘to her grave’ - Perspective Media](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWxGV01XZU5HWFRFTmp4cjJjdnB2ZmE1OTVKaDNvNkRpWE9na2hwcjQ4cVRsdWY0aVlrdmJGcm1FWDE1ZnlVNnRhS2hjR3RBa3gtbExrTEh2UFY5NXNhTC1BdXpBczJLUDE0aEE1TnQydEQyakVaYW13Mks0NU5xbDgzaVkyOVB5c2d2NlcyTUtuTUlQeXhtV3ZoMUZQWE10dEE?oc=5) — Perspective Media (Thu, 02 Jul 2026 12:50:04 GMT) — topic: _closed adoption records reform_
