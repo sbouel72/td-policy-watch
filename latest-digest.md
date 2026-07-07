@@ -1,13 +1,10 @@
-# TD Global Policy Watch — 2026-07-06 19:53 UTC
+# TD Global Policy Watch — 2026-07-07 02:51 UTC
 
-## New worldwide signal items (3)
+## New worldwide signal items (2)
 _Unverified news signal — check each before citing in an episode._
 
-### GB
-- [The Brutal Truth Behind the State Apology for Forced Adoptio - Lavender Hotel](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZnUxUGFqRTExRElENDhnRnJtM1R3SHBHa3BzQzF1VDZFS24ycTZlODlPN1cwWHhrZ1NYR3Jwc19lLXNXVXVhUTVjRUxzTC1GWFFlSmp0TWU4MHhyV2Y2XzI2UDVXQnZhSGJPclRBcnc1UFA1QVVuaXhNeUgtaE1wT2NmWFVvaS04?oc=5) — Lavender Hotel (Thu, 02 Jul 2026 17:50:00 GMT) — topic: _forced adoption redress scheme_
-
-### NZ
-- ['Government's forced adoption apology is too late' - AOL.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNajRoRHl0ZXVqNTdLZHNSNlpwV18xNVhTNnhWTzZzblpyV2hFaEFkMFBQWnlsX3A0ZlVNMWItcmljbUk2bWRiTnpGelBjYmhSczFLZnppNDBBUGZhVFlWOGhuOGloUUlzU3lMODdHQ0hTNlBnYkluVnVlNzdhY1RvaDlqM0Y3UXNRcjNv?oc=5) — AOL.com (Sat, 04 Jul 2026 16:29:05 GMT) — topic: _forced adoption apology_
+### AU
+- [Why Keir Starmer's historic apology over forced adoptions must be just the start – Christine Jardine - The Scotsman](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX1Bldk9KQ2VzR1lNR2NFRTZCN0pZX0Y3dHRaZXRCR3RKeUh0dklDcFctMkJtekE0Y0NLRGdVMmVnWExLeUU1QTllRm1KUjFPaVBFakFJQjM5YTVrdjNJUnE3ZERNTGRhSl9HeENuWW4tRFY0bXRZaGF3SGdNQy1IQ09FUVN1NEI3Tjc0aTM2T1M2ZHpJemh3YTNYNjc5U01EUjA3ajlCOEhZYUcxeDI2VUdlNjJ6cHJZX3BtOEZHS0Y5aE1oRm1Ca0NiMUxNMXJvcVE?oc=5) — The Scotsman (Mon, 06 Jul 2026 05:00:00 GMT) — topic: _forced adoption apology_
 
 ### US
-- [Starmer says forced adoptions a 'stain on our history', as he gives formal apology - AOL.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxQTFRQSHMtdmVCU2xNUWtNRGhyMkkwRjJUX0V2SE5QVUdLUTZGM2JmUDlWejhLVUxlWHRJeGRxM0R0Mk01YmdHQlJPZFFUMVh0NmxMZEx2ZWdZZkRlTVlkRGhnUTFJeFo5dmdRM3liUnc1RllUYjdiUUR2OU9qMkJ2TzVWMHRYbGdMbjgxdnpB?oc=5) — AOL.com (Thu, 02 Jul 2026 11:53:33 GMT) — topic: _forced adoption apology_
+- [Starmer issues UK’s first state apology for forced adoptions - MSN](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMkJfZnFzdUdWS1JSaHYxZUlWNWpmcVFZWnZPeFJqT1Y3bmVEX0pJTGVZRWVTV3RDZnMzSkY0TEJLVnc3cmVicmV3MVJwTU96X0NRY0tNalZQVEdCWEJJRVZXX2p6X1VUcVFzOGYzd3gzYmE1bEx6QWJHSnFyNzh0Xy1fbkw4ck5Rd0tuOGVITXlLczAxWWZjMmt0QlZsc2NOZ1RqalM1SEE5Ym9sRElocTBERlA3RUV5aExWcWp1YVlqZF81R3diSlRnelp1YnJZdmFKd0YzcU9XZks5RVJ3RFZocE8?oc=5) — MSN (Thu, 02 Jul 2026 17:03:13 GMT) — topic: _forced adoption redress scheme_
