@@ -1,7 +1,7 @@
-# TD Global Policy Watch — 2026-07-11 18:59 UTC
+# TD Global Policy Watch — 2026-07-12 02:31 UTC
 
 ## New worldwide signal items (1)
 _Unverified news signal — check each before citing in an episode._
 
-### AU
-- [Cornwall's Voice: MP Noah Law says government apology cannot erase historic injustice of forced adoption - Cornish times](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNlBGNUJIZFRaOG94Vm9mUmFLRVl2MjJhY04wNTk5dnNTV0JoYk1LLWxLR19PbDY3Z3NsZW5RMDZlREpQM2hXdDJJQlZPekZmRksyclg0SkdObGZXNzZ0TnV0RXJTMlpRNkJnOXo2ak5XZ2ZrOEdxcXB6OUJRTGRlWTRJUWFNM0t4dGNEM1luOWk1X0JrcUdWQlJLTjVHS0ZFNVE2akdIRTRpUUNYcTRtc0FnSlh0dDZBR3dnektLQTBzR0FHTFZBOGF4UWJBRnF5XzU4a240SUF6NlowTUhaY3dyNA?oc=5) — Cornish times (Sat, 11 Jul 2026 08:05:06 GMT) — topic: _forced adoption apology_
+### NZ
+- [Reform MP says her mother took forced adoption secret ‘to her grave’ - Peeblesshire News](https://news.google.com/rss/articles/CBMitgFBVV95cUxQX2Z1bXFzNlVtd3BFdHZkNmdDLVppaExhcGotWGMxTC1ZUUhQYnRTWHVKU2s2RkhtSngwX3NMQlM4Y1JESmNNNGhyTjhleTdTTTFGX2FOa1ZFbE1oREhrQW0wQ3lBWUdvblJ4ZkdhNW1qWFFlMFRJM3VSMzg2MzZidHcyZVBiZEEyMjJyRE9IVUotZlA3bUh3bkc2R3ZmUjVIVUFycjFqd25MM3QyaDBzQ0U4QjlYZw?oc=5) — Peeblesshire News (Thu, 02 Jul 2026 20:29:11 GMT) — topic: _closed adoption records reform_
