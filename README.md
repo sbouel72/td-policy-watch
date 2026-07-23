@@ -4,7 +4,7 @@ This is the fix for "I should not have to rely on running this locally, and
 it should cover adoption policy worldwide." It runs on GitHub's servers on a
 schedule. Your Mac can be off, asleep, or a thousand miles away — it still runs.
 
-**Follow Results Here** https://github.com/sbouel72/td-policy-watch/issues/
+**Follow Here for Daily Results** https://github.com/sbouel72/td-policy-watch/issues/
 
 ## What it actually covers, stated plainly
 
