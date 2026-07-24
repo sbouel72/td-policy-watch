@@ -7,24 +7,24 @@
       "jurisdiction": "AU",
       "subnational": "SA",
       "mechanism_name": "Discharge of adoption order",
-      "year_effective": null,
+      "year_effective": 2018,
       "phase": "P3_CONDITIONAL",
       "effect_on_legal_identity": "severs_adoptive_legal_relationship",
       "access_granted": "origin_information",
-      "citation": "",
-      "verified": false
+      "citation": "Adoption Act 1988 (SA) s 14(7): 'on the making of a discharge order, the rights, privileges, duties, liabilities, and relationships of the person to whom the adoption order relates and of all other persons will be the same as if the adoption order had not been made' (subject to savings in s14(8)-(9), incl. preserved Part 2A information access). Inserted by the Adoption (Review) Amendment Act 2016 (SA), assented 15 Dec 2016, commenced 15 Dec 2018. Prior text (11.7.2013-31.12.2016 consolidation) contained no such effect clause -- discharge previously allowed only on fraud/duress grounds with a bare power to make 'consequential orders,' no statutory statement restoring pre-adoption status. Source: https://www.legislation.sa.gov.au/_legislation-documents/lz/c/a/adoption-act-1988/current/1988.90.auth.pdf (current, version 15.12.2018); historical comparison: https://www.legislation.sa.gov.au/_legislation-documents/lz/c/a/adoption-act-1988/2016.12.31/1988.90.auth.pdf",
+      "verified": true
     },
     {
-      "id": "US-GENERIC-ANNULMENT",
+      "id": "US-CA-VACATION",
       "jurisdiction": "US",
-      "subnational": null,
-      "mechanism_name": "Annulment / abrogation of adoption",
-      "year_effective": null,
+      "subnational": "CA",
+      "mechanism_name": "Vacation of adoption (Cal. Fam. Code Div. 13, Pt. 2, Ch. 6)",
+      "year_effective": 2023,
       "phase": "P3_CONDITIONAL",
       "effect_on_legal_identity": "severs_adoptive_legal_relationship",
-      "access_granted": "origin_information",
-      "citation": "",
-      "verified": false
+      "access_granted": "not_addressed_by_statute",
+      "citation": "California Family Code s 9100(a): 'If a child adopted pursuant to the law of this state shows evidence of a developmental disability or mental illness as a result of conditions existing before the adoption ... and of which conditions the adoptive parents or parent had no knowledge or notice before the entry of the order of adoption, a petition ... may be filed by the adoptive parents or parent ... If these facts are proved to the satisfaction of the court, it may make an order setting aside the order of adoption.' Petition window: 5 years from entry of the adoption order (s9100(b)). Current text amended by Stats. 2022, ch. 870, s 1 (AB 2711), effective January 1, 2023 (modernized 'unadoptable' to 'plan of adoption is not currently suitable'); the underlying vacation-of-adoption mechanism predates this and was carried into the Family Code at its 1994 operative recodification from former Civil Code provisions -- this row cites the current operative text only, not the original enactment date. NOTE ON STRUCTURAL FIT: this mechanism differs materially from AU-SA-DISCHARGE and should not be treated as a like-for-like equivalent without flagging the differences: (1) standing is limited to 'the adoptive parents or parent' -- the adopted person has no right to petition under this section, unlike SA s14 which names the adopted person as an eligible applicant; (2) s9100(c)(1) directs the case to the county welfare department / Welfare and Institutions Code process on vacation, i.e. the child returns to state dependency proceedings, not automatically to the birth family or to a restored pre-adoption legal status as SA s14(7) provides; (3) the statute is silent on origin-information/birth-record access, hence 'not_addressed_by_statute' rather than the 'origin_information' value the unverified seed row asserted. Source: https://codes.findlaw.com/ca/family-code/fam-sect-9100/ ; https://law.justia.com/codes/california/code-fam/division-13/part-2/chapter-6/section-9100/",
+      "verified": true
     }
   ]
 }
