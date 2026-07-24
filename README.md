@@ -87,3 +87,81 @@ If a topic/jurisdiction combo produces mostly junk, either tighten the query
 (more specific phrase) or add a pattern to `NOISE_PATTERNS` in the script.
 This will need a pass or two of real-world tuning — the first run's backlog
 is a reasonable sample to tune against before the schedule kicks in for real.
+
+---
+
+## AALS v2.0 — mechanism analyzer (separate subsystem)
+
+`policy_evolution_analyzer.py` is a second, independent tool in this repo. It
+does not scan news. It holds a hand-curated, citation-gated dataset of
+adoption record-access mechanisms (`state/mechanism-dataset.json`) — things
+like "discharge of adoption order" or "vacation of adoption" in specific
+jurisdictions — and reports two objective things only:
+
+- **Structural equivalence** — which verified mechanisms produce the same
+  documented effect on legal identity, across jurisdictions.
+- **Phase timing** — when each verified mechanism took effect, so timing can
+  be compared.
+
+It makes no claim about intent or coordination between jurisdictions — that's
+enforced by the unit tests, not just a style choice. If a coordination
+argument needs making, it belongs in prose in an episode, argued from the
+evidence, never presented as this tool's output.
+
+**Every row starts unverified and is excluded from findings until sourced.**
+A row only counts once it has: the actual statute + section (not just "the
+Adoption Act"), the year the *specific provision* took effect, and the
+confirmed legal effect read from the primary text — not a secondhand summary.
+Secondhand advocacy pages are a fine starting point for finding the citation,
+but the citation itself has to trace to the primary source (the legislature's
+own site, or a service like Justia/FindLaw that reproduces the current
+official text with its amendment history).
+
+### Running it
+
+```bash
+python3 test_analyzer.py                        # 7 unit tests on the analyzer's own logic
+python3 policy_evolution_analyzer.py --check     # integrity gate: are dataset rows well-formed?
+python3 policy_evolution_analyzer.py             # full report -> mechanism-analysis.md / .json
+```
+
+Both `mechanism-analysis.md` and `mechanism-analysis.json` are gitignored —
+they're regenerated output, not tracked deliverables.
+
+### Adding a verified row
+
+Edit `state/mechanism-dataset.json`. Each entry needs:
+
+```json
+{
+  "id": "US-CA-VACATION",
+  "jurisdiction": "US",
+  "subnational": "CA",
+  "mechanism_name": "...",
+  "year_effective": 2023,
+  "phase": "P3_CONDITIONAL",
+  "effect_on_legal_identity": "severs_adoptive_legal_relationship",
+  "access_granted": "...",
+  "citation": "Full statute text quoted, section cited, primary source URL(s), and any material caveats about how well it actually matches other rows in the same effect category.",
+  "verified": true
+}
+```
+
+The `citation` field is where nuance goes — if a mechanism differs in some
+material way from others sharing its `effect_on_legal_identity` value (who
+can invoke it, what actually happens afterward, whether it touches
+birth-record access at all), say so directly in the citation text. The
+analyzer only groups by the coarse effect category; the citation is what
+keeps the report from silently overstating how alike two mechanisms really
+are.
+
+### CI
+
+The scheduled workflow (`.github/workflows/td-policy-watch.yml`) runs, after
+the news watch commits its state:
+
+1. `test_analyzer.py` — the analyzer's own logic is still correct.
+2. `policy_evolution_analyzer.py --check` — every dataset row is well-formed
+   (known phase, no `verified: true` without a real citation and year).
+
+Either failing fails the workflow run.

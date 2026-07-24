@@ -39,5 +39,8 @@ jobs:
           git diff --quiet --cached || git commit -m "Policy watch update $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
 
+      - name: Analyzer unit tests
+        run: python3 test_analyzer.py
+
       - name: Mechanism dataset integrity gate
         run: python3 policy_evolution_analyzer.py --check
