@@ -165,3 +165,20 @@ the news watch commits its state:
    (known phase, no `verified: true` without a real citation and year).
 
 Either failing fails the workflow run.
+
+### It's folded into the daily email
+
+Earlier in the same workflow run, before the news watch, a
+`policy_evolution_analyzer.py` (full report, not `--check`) step generates
+`mechanism-analysis.md`. `td-global-policy-watch.py` reads that file if
+present and appends it as an "AALS v2.0 — mechanism analyzer status" section
+to the digest it builds — so the same GitHub Issue/email that carries the
+news signal also carries the current mechanism-tracker findings, always
+regenerated fresh from `state/mechanism-dataset.json` rather than stale
+output. This only adds a section to an email that's already going out for
+news/bill reasons; the mechanism dataset changing (rarely, since rows are
+added by hand) does not by itself trigger a new email. That analyzer step is
+deliberately non-fatal (`|| true`) — a broken analyzer never blocks the news
+watch or its email; it just means that day's digest omits the section. The
+integrity gate later in the same run is the real enforcement point for
+dataset correctness.

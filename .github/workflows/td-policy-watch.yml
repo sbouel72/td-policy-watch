@@ -25,6 +25,15 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
+      - name: Generate mechanism analysis (non-fatal)
+        # Runs before the news watch so mechanism-analysis.md exists in time
+        # to be folded into today's digest/issue. "|| true": a problem here
+        # must never block the news watch or the daily email -- if this
+        # fails, build_mechanism_section() in td-global-policy-watch.py just
+        # finds no file and omits the section. The integrity gate below is
+        # the real enforcement point for dataset correctness.
+        run: python3 policy_evolution_analyzer.py || true
+
       - name: Run global policy watch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

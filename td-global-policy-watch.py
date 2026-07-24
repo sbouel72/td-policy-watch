@@ -45,6 +45,7 @@ STATE_PATH = os.path.join(SCRIPT_DIR, "state", "seen-news-items.json")
 BILLS_CONFIG_PATH = os.path.join(SCRIPT_DIR, "state", "bills-config.json")
 BILLS_STATE_PATH = os.path.join(SCRIPT_DIR, "state", "bills-state.json")
 DIGEST_PATH = os.path.join(SCRIPT_DIR, "latest-digest.md")
+MECHANISM_REPORT_PATH = os.path.join(SCRIPT_DIR, "mechanism-analysis.md")
 
 # ---------------------------------------------------------------------------
 # TIER 1 CONFIG — broad worldwide news signal
@@ -268,6 +269,34 @@ def run_bill_checks() -> list:
 # Digest + GitHub Issue output
 # ---------------------------------------------------------------------------
 
+def build_mechanism_section() -> str:
+    """Fold in the AALS v2.0 mechanism analyzer's report, if one was generated
+    this run (mechanism-analysis.md, produced by policy_evolution_analyzer.py
+    as a separate step earlier in the workflow). Returns "" if the file isn't
+    present -- e.g. when running this script locally/standalone without also
+    running the analyzer, or before the workflow step that generates it.
+    This section is purely informational: it never affects has_content /
+    whether an issue is opened. It only rides along on days an issue already
+    fires for news or bill reasons, and is always written to latest-digest.md
+    regardless, so it's visible any time by reading that file."""
+    if not os.path.exists(MECHANISM_REPORT_PATH):
+        return ""
+    with open(MECHANISM_REPORT_PATH) as f:
+        report = f.read().strip()
+    if not report:
+        return ""
+    return (
+        "\n---\n\n"
+        "## AALS v2.0 — mechanism analyzer status\n"
+        "_Separate subsystem: citation-gated comparative analysis of adoption "
+        "record-access mechanisms. Regenerated fresh each run from "
+        "`state/mechanism-dataset.json`; makes no claim about intent or "
+        "coordination. Full methodology in README.md._\n\n"
+        + report
+        + "\n"
+    )
+
+
 def build_digest(new_news_items: list, bill_changes: list) -> str:
     ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     lines = [f"# TD Global Policy Watch — {ts}", ""]
@@ -296,7 +325,9 @@ def build_digest(new_news_items: list, bill_changes: list) -> str:
     if not bill_changes and not new_news_items:
         lines.append("No new items this run.")
 
-    return "\n".join(lines)
+    digest = "\n".join(lines)
+    digest += build_mechanism_section()
+    return digest
 
 
 def maybe_open_github_issue(digest: str, has_content: bool):

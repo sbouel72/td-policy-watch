@@ -1,3 +1,4 @@
 mechanism-analysis.json
 mechanism-analysis.md
 __pycache__/
+.DS_Store
