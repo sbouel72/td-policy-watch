@@ -38,3 +38,6 @@ jobs:
           git add state/ latest-digest.md
           git diff --quiet --cached || git commit -m "Policy watch update $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
+
+      - name: Mechanism dataset integrity gate
+        run: python3 policy_evolution_analyzer.py --check
