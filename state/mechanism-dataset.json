@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "note": "Each entry is a claim about a record-access mechanism. Fill 'citation' with a primary source (statute/section or official page) and set 'verified': true once checked. Unverified rows are excluded from comparative findings.",
+  "mechanisms": [
+    {
+      "id": "AU-SA-DISCHARGE",
+      "jurisdiction": "AU",
+      "subnational": "SA",
+      "mechanism_name": "Discharge of adoption order",
+      "year_effective": null,
+      "phase": "P3_CONDITIONAL",
+      "effect_on_legal_identity": "severs_adoptive_legal_relationship",
+      "access_granted": "origin_information",
+      "citation": "",
+      "verified": false
+    },
+    {
+      "id": "US-GENERIC-ANNULMENT",
+      "jurisdiction": "US",
+      "subnational": null,
+      "mechanism_name": "Annulment / abrogation of adoption",
+      "year_effective": null,
+      "phase": "P3_CONDITIONAL",
+      "effect_on_legal_identity": "severs_adoptive_legal_relationship",
+      "access_granted": "origin_information",
+      "citation": "",
+      "verified": false
+    }
+  ]
+}
