@@ -1,19 +1,17 @@
-# TD Global Policy Watch — 2026-07-24 19:21 UTC
+# TD Global Policy Watch — 2026-07-25 02:25 UTC
 
-## New worldwide signal items (3)
+## New worldwide signal items (1)
 _Unverified news signal — check each before citing in an episode._
 
 ### AU
-- [VDH: Adoptees no longer need court order for birth certificate - cbs19news.com](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU1JyN2tSS29mSnFlMXAxRG9yR3hHOHFSMmV1eUpkVDFiZ1Fmd3Atc0Y4c2hMa1pFaHVrNC1ja3g5NUY1UThuZnN6VmJMaVRtVVlNbFN6aUxfbl9oeHA4YzVCMGhKVWhkeUZ0aC1NRENHZ01GandUVmRCUTJjX2hjWDhhZ0Y3SE5GM3VjaDZ1UGxYdFZYanQwd3BKaWRMaExpZW5VRDU3QmlRdnltc2phXzY1dTdTZlFCUTBLcVNVUVBzUXdnbThVOEplU3NveE9ra1pJQkVyZ0VSZw?oc=5) — cbs19news.com (Fri, 24 Jul 2026 18:05:00 GMT) — topic: _original birth certificate adoptee_
-- [150+ adoptees sought original birth certificates in 2 weeks after Virginia law change - WSET](https://news.google.com/rss/articles/CBMivwFBVV95cUxOM0dKVC15eFhBcnFxV0Q4S3ZEZkZiTkJBc3FPWGMzczY3OGk4R0d6T1Rla2FOVVRxOUVnTUtTaG9WanBOVHc3anFoaVdQNHp1eGdsNXZUNHRhUkNfTFJnbDNIZ01hSVNIWlo0Sk55cjROVTdZc1A2SkhoUHRJcUIteXRaZnR6cUZzTDMtZERTOWtQeHBqSERCejdJS3NnRFJVVmU3bnpJRE1UYWNwamRvSFNsQVhRaWoxUmNDUWNUNA?oc=5) — WSET (Wed, 22 Jul 2026 20:18:41 GMT) — topic: _original birth certificate adoptee_
-- [Ottawa acknowledges "lasting impact" of forced adoptions but offers no apology - Toronto Star](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYXRUSGR5X3ctNWtzZGZFUVNOU2hoSk5GMFM5U1JCYUVJbFowaWpUNzJLOG1hQXBYdFJSM0Ywa3RWVTJfUTh0ZndHV2xoX1UtcUt2a2cwaUpwT25ZZnVOZ3FPX0pMbmhEWldHU09QTmJGQmVWRnlwWkxncHEwVGhza05kbFVOSmNBamhhMkMwcFo4OXJHMjlxUmJkWnc1eGdFRERoeU5zeE5pbUM4bXVQWHNLaFZ3U01YTzNBZlpqZmFtNEdiTkRkTnVKVGNGM1NfRjQ5UTdhVDNzb2ZHQzg3OVpjMVJJZU9iV2ZIQkYyVnFaQk1BWFE?oc=5) — Toronto Star (Fri, 24 Jul 2026 19:09:58 GMT) — topic: _forced adoption apology_
+- [Ottawa acknowledges 'lasting impact' of forced adoptions but offers no apology - Castanet](https://news.google.com/rss/articles/CBMivAFBVV95cUxQODMwUWw2ZWI3aWItaGtlR1lUXzVuTjdGZWh3dldjUGxtUVplQ3BtM0VKTlc2QXI5bmpBakdYZExOY1RuNFNHcHZSV3Q2Wml3YUJmT0tTcUdkRGNHa0NRdnBtaGY4cDJJby14cU5mODktemRnMm1jby1uTFNLR3UxWHZGcWNvTjA0WGZSSERWcEJIbXY0X01vSVFhbzB3NkpNYnk4Z1RSSHJwVTBjMDFFR1dBYVdqVG9CakJPNg?oc=5) — Castanet (Sat, 25 Jul 2026 00:06:00 GMT) — topic: _forced adoption apology_
 
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-07-24 19:20 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-07-25 02:25 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
