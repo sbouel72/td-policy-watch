@@ -1,12 +1,18 @@
-# TD Global Policy Watch — 2026-07-26 13:25 UTC
+# TD Global Policy Watch — 2026-07-26 19:06 UTC
 
-No new items this run.
+## New worldwide signal items (2)
+_Unverified news signal — check each before citing in an episode._
+
+### AU
+- [Why is it so hard to get adopted relatives’ Kansas birth certificates? | Opinion - Yahoo](https://news.google.com/rss/articles/CBMimAFBVV95cUxOUG5kWER0cm0wcEozVEsxLU1HUk1YaS0xeUZlVlZlM20xdjdnWU1oYUdReEgzaDYwZjlpUFlHY2VtLWtzZm9OLWZWSnhfOXpQbmhIc3otTGJJZm8xV2kxOWk0N1c0ZTdJZDhxSGJKTlROMHRyUWtIc1pKOW9ZSmVsUFdLUlJQWUlvMzJHQnVWd3lKTVp0bzhpdw?oc=5) — Yahoo (Sun, 26 Jul 2026 10:02:00 GMT) — topic: _original birth certificate adoptee_
+- [Ottawa acknowledges "lasting impact" of forced adoptions but offers no apology - CityNews Vancouver](https://news.google.com/rss/articles/CBMiugFBVV95cUxOd0JYQS14OHBhV2RYYngyTzBxcElRdXRIUDlUN3RUWjhVanpIR2llcEZ0Zy1MRm83aTVza3Q3MFYzYTdJYUIyeUlVWjFPb3p1eXpPYlJ5TjlrUEpab0kyYmVXUU9tRFhLU3VkZWREM0lwR2I5RWNud0tZY3ZYVkE3NzRrUFAyWmh5NFotcjNPeS1tSTFOUEx6aEduTVNrbnR1OHpzZl9GTWNBX1hMUTFlOWRheWhqb3p0Q2c?oc=5) — CityNews Vancouver (Fri, 24 Jul 2026 19:27:36 GMT) — topic: _forced adoption apology_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-07-26 13:14 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-07-26 19:06 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
