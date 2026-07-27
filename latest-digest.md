@@ -1,12 +1,20 @@
-# TD Global Policy Watch — 2026-07-27 14:27 UTC
+# TD Global Policy Watch — 2026-07-27 19:23 UTC
 
-No new items this run.
+## New worldwide signal items (2)
+_Unverified news signal — check each before citing in an episode._
+
+### AU
+- [Ottawa acknowledges "lasting impact" of forced adoptions but offers no apology - Yahoo News Canada](https://news.google.com/rss/articles/CBMiigFBVV95cUxNMkxWMjRkZi02OVlMYjBJQU82U3JKUnZIRWUtNjNfT2owYmswQzV6RG5BaWRnaWhPMW9Hd2hnWHpHUGU5QUlhRVh1WlVrWGlkeDB1NHdpSGowQ0szeGEtYWo4emdvVV9KY0p2NTNhTVcwNG5FUXk0RS0yVTJ4VTNIdGF1N05nbVg2RUE?oc=5) — Yahoo News Canada (Fri, 24 Jul 2026 19:09:58 GMT) — topic: _forced adoption apology_
+
+### CA
+- [Ottawa acknowledges “lasting impact” of forced adoptions but offers no apology - NanaimoNewsNOW](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSlhuRWtQeE9JcUNOZGxnQzd4U1RlSjRfVUV4S1Rtc2ZTYzBlNldTWmpYeWJOMVo4UlJJbTQ0ZVU1Q3o5Y1FBc2xfRVpwb0s4dU92NDlEWWx1dldjNUwyUDJKTnVaZkNWdktYV2pGUFEzRFJZYmhSc0NiRmd3RzJXUjJuVEgzdGFwcmh4VEFDRUFUcmVVd2xnUF9HWXhacVVSNTJZN3BrN3I2OVZoeTlzc2VwUWNRdw?oc=5) — NanaimoNewsNOW (Fri, 24 Jul 2026 19:30:29 GMT) — topic: _forced adoption apology_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-07-27 14:27 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-07-27 19:23 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
