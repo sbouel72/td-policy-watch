@@ -1,20 +1,17 @@
-# TD Global Policy Watch — 2026-07-27 19:23 UTC
+# TD Global Policy Watch — 2026-07-28 02:14 UTC
 
-## New worldwide signal items (2)
+## New worldwide signal items (1)
 _Unverified news signal — check each before citing in an episode._
 
 ### AU
-- [Ottawa acknowledges "lasting impact" of forced adoptions but offers no apology - Yahoo News Canada](https://news.google.com/rss/articles/CBMiigFBVV95cUxNMkxWMjRkZi02OVlMYjBJQU82U3JKUnZIRWUtNjNfT2owYmswQzV6RG5BaWRnaWhPMW9Hd2hnWHpHUGU5QUlhRVh1WlVrWGlkeDB1NHdpSGowQ0szeGEtYWo4emdvVV9KY0p2NTNhTVcwNG5FUXk0RS0yVTJ4VTNIdGF1N05nbVg2RUE?oc=5) — Yahoo News Canada (Fri, 24 Jul 2026 19:09:58 GMT) — topic: _forced adoption apology_
-
-### CA
-- [Ottawa acknowledges “lasting impact” of forced adoptions but offers no apology - NanaimoNewsNOW](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSlhuRWtQeE9JcUNOZGxnQzd4U1RlSjRfVUV4S1Rtc2ZTYzBlNldTWmpYeWJOMVo4UlJJbTQ0ZVU1Q3o5Y1FBc2xfRVpwb0s4dU92NDlEWWx1dldjNUwyUDJKTnVaZkNWdktYV2pGUFEzRFJZYmhSc0NiRmd3RzJXUjJuVEgzdGFwcmh4VEFDRUFUcmVVd2xnUF9HWXhacVVSNTJZN3BrN3I2OVZoeTlzc2VwUWNRdw?oc=5) — NanaimoNewsNOW (Fri, 24 Jul 2026 19:30:29 GMT) — topic: _forced adoption apology_
+- [New law makes it easier for adoptees to get a copy of original birth certificate - WFXRtv](https://news.google.com/rss/articles/CBMirgFBVV95cUxOaXdRNUJtMkNodjFDUkctZk5vRzdnTlJwUzZHWU9oNG5pV3Z5WlhHTU1abkhVWlR2eHowRnNaX3owS005TlVGcG1DZWhhWExBNVV3Rmdtd1ZNZjJ0VUctTVA5Skt6Y2xKU2NlZEowakl2aGYyeU1LVEUyZklEc25QVjJkTUdXdFRsMU14XzNrMV8zajQyZnNVdHhhZWZyUWZqeDlEcmNCUmNDMVA3R3fSAbMBQVVfeXFMTWVuQzNuTW5tZ0pVN3p1Vk5QS09HeXM4SkV3dF8waXViQW1GUlFHdnZldVBJWDJtdjNKdHIwTGVoSFVnT0FPa0hjdGtfVXdDbnBZZGhZRGpWTmdqay1aMXFmX3B4VzZkZVBhcXc2WTAtLXNsT2QzYkVwa19xT2NFV3NLM21NZjAxd2h4WkRUTC04WG1sT0o1c2wzSHN0OU1lMzBxOWFiUkN1N2VCOS1sZHBQQms?oc=5) — WFXRtv (Mon, 27 Jul 2026 21:48:10 GMT) — topic: _original birth certificate adoptee_
 
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-07-27 19:23 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-07-28 02:13 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
