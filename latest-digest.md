@@ -1,21 +1,12 @@
-# TD Global Policy Watch — 2026-07-28 08:29 UTC
+# TD Global Policy Watch — 2026-07-28 14:00 UTC
 
-## New worldwide signal items (3)
-_Unverified news signal — check each before citing in an episode._
-
-### AU
-- [New law makes it easier for adoptees to get a copy of original birth certificate - WRIC ABC 8News](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPa1dqelZDck1sZVVhZlBJX0xlWml6LU1pdTFydEM1eFFvR1BzbF9ZLXFRSGxJZzRJTXc0WWxoVjcyMlFDMXBFSWl0RFpCakpSTVFSckRWQUxmS1cyN0Zjd0JQMFBYcHZsUlY1d1BMd1p6RmlMaGY0SVBBdGE3VENKcmVMY19La0E4NWVDT09mU3RyaWViYVcxaGFwLXBLZXh0VXhwYkJ3UlRyazAwYjdUbGpGRG8xcFVnTTZfdzdlRzF6MTFacHgyaG9QMGZIb01x0gHWAUFVX3lxTE51Wng5NkptS1Q5TGdLTnR1RXZTdkh4MWpzSzBXUDBfQjlCdmRWVVp3cHRLSXc5YlFRNWJUTm9aQ2lWM0VzWGJBMS0zWWtyOHJJZmZkTjE1M1FsaUFzVnc4UFliUmpyaERPMC1qWld5RnRWbU5WTVRYUHhVeFBiUDBCaHQ0TkhiamJwU284cFl0WmlTVzhweTZHWFBUSFpTTmtTQVBaUW1zZmxOZF9iSHlaeEJrb193TllsaXlkVjhqQ1M3VjIwTGtvNkRfWHZUaVdhbHllX0E?oc=5) — WRIC ABC 8News (Mon, 27 Jul 2026 21:45:46 GMT) — topic: _original birth certificate adoptee_
-- [New law helps adoptees get original birth certificate - WAVY.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHJGYWJBRlJZTDJydWxiVnI1REJ6VDdKVE1aNjNtdXRLZUJvREFacERKQ2kwMmItNEdjQXRQR09rdmJUWHFSdGZCZU4zYk9IT0wtZFNXNWpldFFYVWZwQ0M1X2hNN2t1R0FNRWs2RXpEeUZQYkZmTzNtWjBabm84blllaHBUMm1ybG1UeW02MG9RX3k4?oc=5) — WAVY.com (Tue, 28 Jul 2026 03:46:09 GMT) — topic: _original birth certificate adoptee_
-
-### US
-- [Ottawa acknowledges "lasting impact" of forced adoptions but offers no apology - The Spec](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMGFfc1pxOUxZVjl2UlFoZFRlaVhSQUpzcER4eFl5aU1sVXAxWHZsRGI1VkhVd092dlZkdTZfYzdhVkNORlZaY05aa0NBbGQyVUltZnl4ZTlGV0t5YVFTc29KTEtLR0lSM2YxeVNxNWh0TFpkdFJ1bW1HU2JzLXNsb2JiOG52aFZLLVNYTmlpaDBMakJYRmxOXzhCMUZkVmhJZ2ZrZS1WOEc3c2hqcmthM2NFYUNfd3RDbUd6QnVvNDRJWDhieE5fQU5BSi1KUmVfTXYyT21fMEFWaDdPZ2ZaZndlbE12YnFocHQ1RHYyTHJTQ3Fm?oc=5) — The Spec (Fri, 24 Jul 2026 19:09:58 GMT) — topic: _forced adoption apology_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-07-28 08:29 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-07-28 13:59 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
