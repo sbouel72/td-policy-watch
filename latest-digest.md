@@ -1,17 +1,12 @@
-# TD Global Policy Watch — 2026-07-30 02:07 UTC
+# TD Global Policy Watch — 2026-07-30 08:21 UTC
 
-## New worldwide signal items (1)
-_Unverified news signal — check each before citing in an episode._
-
-### AU
-- [Undocumented parents secure victory after court rules Home Affairs cannot deny birth registration - IOL](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOS2VnYVE1RWl6R3Z4UmEzeElTbTNIRTlhRnZVdGRncVY4OWJ1XzZ6U1BoTUVPZ0xnQmRuSTR6Tkg5TUozVVg0S3RDWmRUejh1Nmh4RjBEZlg2am9LZE1mY1dmbGthSngwa1pHSGVJM2dqVmRXX1dyRXVRZHUzUzdldklLZVNRRGNYa054cjJrM0xydGRSTl9UZHh4cGNRWF9xRzYwbmZzZmNsNWdkWGRWWnRaOHpMRTNpcG9rbURkSWhCTkdGczFsX0VVajgwWjdZYmNwdEpsLUFjdnNtaG9qYXVXdw?oc=5) — IOL (Wed, 29 Jul 2026 17:17:29 GMT) — topic: _birth parent registry law_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-07-30 02:06 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-07-30 08:21 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
