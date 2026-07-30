@@ -1,17 +1,17 @@
-# TD Global Policy Watch — 2026-07-29 19:12 UTC
+# TD Global Policy Watch — 2026-07-30 02:07 UTC
 
 ## New worldwide signal items (1)
 _Unverified news signal — check each before citing in an episode._
 
 ### AU
-- [Virginia removes court‑order requirement for adoptees seeking original birth records - WFXRtv](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZVFMZlY0ZkJwcUpodHhpaTFSa2hWSmhTMWZlM0JqUlFESS1iMTdWc2hlMmtkbFQtMllJRDlkRkw1MHprNGRVckVQSndTZklrdk5hLUxQMkpaeVhmRUZUYjA5c2RXRDNwb1lIczZHU25JeGR4b1pVQXV4WThuWnhUZDRCYmxRSWZvUE5fX3A4VFFyYlhhWHA0eTNvel9RNjQyb3lvdVBXQmhXR3k5Y0JzOUU4WG5UYWVoUUM3NjlmUUpQWUlnNEd2bXhjd1JIZUZKTzhHUEZtMWNmMjBqd1Y4U29Ub9IB6AFBVV95cUxNYU93TFp4MlVmbU9nUlozOWstNllRX1BVbndTcndjejU4c2FlemdxXzk5Z2ZuUVFNN1puNVRsbk04WjkwcGROajBnOVYtYlFRbmZIc0Zyb1RXT29XOXRSZTdnNlFzX000UXh6RkN4Z0hFMGZWUlJHS1JQRzVZUVV1TlE3VmpQQXo5ZmhTQmxBNk5BdTJiaWZ5YjM4bDg1UEJwWXZnVnRRSUVRSTdkbWZjTllpcDNYWm5LYVgyMlYwUE05M2NvZS1UT1JVRS1hMUxNOFNIb1ZsOEVKWjQ4WE92SlFOSHJuOEhK?oc=5) — WFXRtv (Tue, 21 Jul 2026 16:42:06 GMT) — topic: _original birth certificate adoptee_
+- [Undocumented parents secure victory after court rules Home Affairs cannot deny birth registration - IOL](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOS2VnYVE1RWl6R3Z4UmEzeElTbTNIRTlhRnZVdGRncVY4OWJ1XzZ6U1BoTUVPZ0xnQmRuSTR6Tkg5TUozVVg0S3RDWmRUejh1Nmh4RjBEZlg2am9LZE1mY1dmbGthSngwa1pHSGVJM2dqVmRXX1dyRXVRZHUzUzdldklLZVNRRGNYa054cjJrM0xydGRSTl9UZHh4cGNRWF9xRzYwbmZzZmNsNWdkWGRWWnRaOHpMRTNpcG9rbURkSWhCTkdGczFsX0VVajgwWjdZYmNwdEpsLUFjdnNtaG9qYXVXdw?oc=5) — IOL (Wed, 29 Jul 2026 17:17:29 GMT) — topic: _birth parent registry law_
 
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-07-29 19:11 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-07-30 02:06 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
