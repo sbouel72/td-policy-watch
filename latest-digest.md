@@ -1,4 +1,4 @@
-# TD Global Policy Watch — 2026-07-31 13:59 UTC
+# TD Global Policy Watch — 2026-07-31 19:20 UTC
 
 No new items this run.
 ---
@@ -6,7 +6,7 @@ No new items this run.
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-07-31 13:58 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-07-31 19:19 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
