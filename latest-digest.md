@@ -1,17 +1,12 @@
-# TD Global Policy Watch — 2026-07-31 08:45 UTC
+# TD Global Policy Watch — 2026-07-31 13:59 UTC
 
-## New worldwide signal items (1)
-_Unverified news signal — check each before citing in an episode._
-
-### AU
-- [Oakland Nonprofit Dog Rescue Sues Shannon Miranda and 'Co-Conspirators' for Animal Cruelty and Fraud - Lost Coast Outpost](https://news.google.com/rss/articles/CBMilgFBVV95cUxPV0EyWE1kdE9XNGtlTWV1RWg1RkpRTkV3RVVSblF3ME5jZGRjcWQ4ZGdnblFlVGlZMnZTaVB0OUxKYlYwcG5ORjZxMkRiclc4djdCZ29UcTR3aGE0eWc0N2UydWU4eE4xVkhaWW1rU0xvdndwemp6LVhwUlZPLVpyVkhxVnJOdmp3MTBueVhPa3MwMUI5WkE?oc=5) — Lost Coast Outpost (Tue, 28 Jul 2026 22:15:00 GMT) — topic: _adoption agency investigation fraud_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-07-31 08:45 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-07-31 13:58 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
