@@ -1,17 +1,17 @@
-# TD Global Policy Watch — 2026-07-30 19:21 UTC
+# TD Global Policy Watch — 2026-07-31 02:34 UTC
 
 ## New worldwide signal items (1)
 _Unverified news signal — check each before citing in an episode._
 
-### AU
-- [Adoptee Solves Mystery of Herself and Learns She Was Baby Found in Paper Bag in 1972 (Exclusive) - People.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxOSUNQZW02eDk2TmFnQVFiVFhEVnRteWd6am1Cdnp2ejNXak56eHVLLWlwYjFrS2dDbW5nOUF3bk5aNWcwWW9VMVFsc0lUUkpjMEUxY3VCVXE4ZzJfdEVKZ1duYWxCS1hFNEtLRy1pV0hRUXpwUXpjRzY5QTd0RGVrdmZPRF9mNkZ5c2dTdG9xb29nbVVuaDU1S0dPREt1b25tcUlYeGpjVmJhc3A0NzhLVmI0ZGt3M2c?oc=5) — People.com (Thu, 30 Jul 2026 12:11:28 GMT) — topic: _original birth certificate adoptee_
+### US
+- [Court rules birth registration exclusions unconstitutional - TimesLIVE](https://news.google.com/rss/articles/CBMitwFBVV95cUxNbUNOdEZSTTJmRXhOM1dNYU9GQmtPMkpRS1h5Q0RaWi1RNlhMWWl4YndyOEdrcnlJWjlNb2VfMmdyTlc0SFZoaW8wZUtGUTk2bDkxUFc1dWxTZlJ6MkZJTG9RQXB0YmZaakEzS2Iyekx1aklJdFhiVGtIdTlVMDVOWlpOdm5GRVdGcXE5NFd3emJoeGZUN29XalVFbWw0TFZFcHVqV0NpZmluR3BmdDFQNWtrQjQ1c28?oc=5) — TimesLIVE (Wed, 29 Jul 2026 17:06:51 GMT) — topic: _birth parent registry law_
 
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-07-30 19:21 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-07-31 02:33 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
