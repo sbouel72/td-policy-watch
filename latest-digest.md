@@ -1,12 +1,17 @@
-# TD Global Policy Watch — 2026-07-31 19:20 UTC
+# TD Global Policy Watch — 2026-08-01 02:33 UTC
 
-No new items this run.
+## New worldwide signal items (1)
+_Unverified news signal — check each before citing in an episode._
+
+### US
+- [NPC urges Sokoto parents to embrace e-birth registration drive - guardian.ng](https://news.google.com/rss/articles/CBMikgFBVV95cUxPMUpIVkt1dHF1b3k2cjFNQ0ZpOUpYUGNxTzBycS1GUVhzNkVlcG9QNUFyQzB3SGFrMDJzV05lLXRWdW80Q0NuWnVxeHZNLUhnSk5jRnFZM1llYUl3RjM5OGxfckdpQzhvSHVIUjZKUWFiRVZraDJUNXdPNk8wdUxKRGpkNWNielJpbENLa3F0OEY2dw?oc=5) — guardian.ng (Thu, 30 Jul 2026 14:10:00 GMT) — topic: _birth parent registry law_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-07-31 19:19 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-08-01 02:32 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
