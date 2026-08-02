@@ -1,17 +1,12 @@
-# TD Global Policy Watch — 2026-08-01 19:04 UTC
+# TD Global Policy Watch — 2026-08-02 02:31 UTC
 
-## New worldwide signal items (1)
-_Unverified news signal — check each before citing in an episode._
-
-### US
-- [PFIPC: Arewa forum backs digital reforms, seeks full adoption in MDAs - Blueprint Newspapers](https://news.google.com/rss/articles/CBMikwFBVV95cUxQZDd4TjRCZWo4cktxcW9mb2M1MDVGOThXQzYzbmZ0elB3cDVuWl9VR0VCYkFCOTZXZlhWYUhmZG1UbXI2UFkwZEV0cGoyd2RNVU50emRLODVZZTBNaW1yNlZQYlNrYTNTcXpqYVZXaVdBUjRITUtrZVZ2Qklpbjd5dHRWUFd0Z09GV2RVdXJQRXQ1SGc?oc=5) — Blueprint Newspapers (Fri, 31 Jul 2026 07:00:00 GMT) — topic: _closed adoption records reform_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-08-01 19:04 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-08-02 02:30 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
