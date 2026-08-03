@@ -1,21 +1,12 @@
-# TD Global Policy Watch — 2026-08-03 09:38 UTC
+# TD Global Policy Watch — 2026-08-03 14:33 UTC
 
-## New worldwide signal items (3)
-_Unverified news signal — check each before citing in an episode._
-
-### AU
-- [Delhi Police unearth online child adoption fraud, arrests two from UP | India News - Hindustan Times](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZi1sZ0JodThYaVdULVhnUUJ2VnJ4S2l4dXB1V3RXWllldHV6OHhycUNISWl4S2c5UV9mLWJtcDh4ejBjZFlSbENDVXNyampmdHVUcThMazFsalZrdVF1MmVLRkpTWGt3Yk5qWjRjSWJZRkRraTJ4NkZXZzR6bGtlbFhvbVllRXFKdEZvT3plejJoSUNHTVQ1XzRGbHNfQVJFVG50NFBla0RhN2dIeXN3aEl2XzN3bHhBLUlnQTRwQTk1MnBQQmRuM2ViZ9IB0AFBVV95cUxNNTNreVA0MEFhdDlwSmppSzV4Z1BMdWx6R3pONFc4VGRER0ZlZWd5ay1la3VRa0VYZFJ1WE9wWHIzcVVaY0RKUDJQQ2FzNzFKaFFIQnJsSjJ5RTZLSGVZQzZvVmo5Ml82VjZzS2NKdF9lOGlkdmJHTXE5Y290RlpoQVJiSEdlYmtFVnh4LTN4Z1pxOVZUOVFqMC1SS09OVmtNMTV2VDExd0U0ZHdoSnVKZzBNUktkUHp5dVFrenM3dG1jck9mMzBzcWxqcjBOdGlv?oc=5) — Hindustan Times (Mon, 03 Aug 2026 04:37:14 GMT) — topic: _adoption agency investigation fraud_
-- [Promise of baby boy, Delhi woman loses Rs 1.37 lakh to adoption scam - India Today](https://news.google.com/rss/articles/CBMizAFBVV95cUxNSnlTbWpONWltaVh0NGtaem9ON3NzTFl3VWh4M2M5RkdtR3dQcFFYaTlwYjVLMGh4dWZ3N2lYMXpEZXFxWDZxTlRtakQxVlZkdk5mOE1BVVdBaDRna0dVR3V4MjctOFR6ZzhnbEdoaFNmQ2VQY0EwM2djZ1VqYmxXVVlqTUxkcXVmRzR5SFlpQkFQNjdRZVl4Z0xaSGlvVGl4Vmh5UVkzUGlGbnI3WEN1UTNFVUFfNUU3R0pBc1BjOG1qRXNfRldaRUk3TkfSAdIBQVVfeXFMUG4tdWUzUFU1SS1qLWhtaVhYV0lWVzJUN3RGOGxjMVJqYjRpWS0wdzJjMzNGSHJfT09Ed1dpUkxGWU9XU2VELU5hd0lENXFBV1ZFZVF0TFRGeWI5bUYzY09KbHhuUTdkZjJPVlNUYm56c2I1NWExa3lyLWJFZzB5Q2xSRUJWZFg1STNpS0dPRmRlMlllRjNCNmlhVzYwQWtSUERwdlIxNUxIY2llcGVPRy1PNG5pNUtWU0tlQ29oX21wTVlYTmF5a24tM1hIaGZNX0x3?oc=5) — India Today (Mon, 03 Aug 2026 05:07:58 GMT) — topic: _adoption agency investigation fraud_
-
-### US
-- [Promise of baby boy, Delhi woman loses Rs 1.37 lakh to adoption scam - India Today](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbi11ZTNQVTVJLWotaG1pWFhXSVZXMlQ3dEY4bGMxUmpiNGlZLTB3MmMzM0ZIcl9PT0R3V2lSTEZZT1dTZUQtTmF3SUQ1cUFXVkVlUXRMVEZ5YjltRjNjT0pseG5RN2RmMk9WU1RibnpzYjU1YTFreXItYkVnMHlDbFJFQlZkWDVJM2lLR09GZGUyWWVGM0I2aWFXNjBBa1JQRHB2UjE1TEhjaWVwZU9HLU80bmk1S1ZTS2VDb2hfbXBNWVhOYXlrbi0zWEhoZk1fTHfSAdIBQVVfeXFMUG4tdWUzUFU1SS1qLWhtaVhYV0lWVzJUN3RGOGxjMVJqYjRpWS0wdzJjMzNGSHJfT09Ed1dpUkxGWU9XU2VELU5hd0lENXFBV1ZFZVF0TFRGeWI5bUYzY09KbHhuUTdkZjJPVlNUYm56c2I1NWExa3lyLWJFZzB5Q2xSRUJWZFg1STNpS0dPRmRlMlllRjNCNmlhVzYwQWtSUERwdlIxNUxIY2llcGVPRy1PNG5pNUtWU0tlQ29oX21wTVlYTmF5a24tM1hIaGZNX0x3?oc=5) — India Today (Mon, 03 Aug 2026 05:07:58 GMT) — topic: _adoption agency investigation fraud_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-08-03 09:38 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-08-03 14:32 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
