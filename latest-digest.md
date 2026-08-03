@@ -1,12 +1,17 @@
-# TD Global Policy Watch — 2026-08-02 19:05 UTC
+# TD Global Policy Watch — 2026-08-03 02:33 UTC
 
-No new items this run.
+## New worldwide signal items (1)
+_Unverified news signal — check each before citing in an episode._
+
+### IE
+- [New state law is changing birth certificates with $15 fee - but it's good news - the-sun.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE5VZDEzRnF6LV81clJUb252dmlKQUd0OHpiRllvdzVJQy1EbDhTTTFsdFdwOVNzWHFycGFIbDNoQm9oV000U2pwY2p1VE9aNFJhUnZfQ3NkM2tEYnpBa3N4WmNhRDdZdkdwWlRKbW1oR2JNeWR3bDQ3TA?oc=5) — the-sun.com (Tue, 28 Jul 2026 15:12:16 GMT) — topic: _original birth certificate adoptee_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-08-02 19:04 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-08-03 02:33 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
