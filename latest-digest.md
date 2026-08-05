@@ -1,12 +1,17 @@
-# TD Global Policy Watch — 2026-08-05 02:12 UTC
+# TD Global Policy Watch — 2026-08-05 08:31 UTC
 
-No new items this run.
+## New worldwide signal items (1)
+_Unverified news signal — check each before citing in an episode._
+
+### CA
+- [Ottawa acknowledges “lasting impact” of forced adoptions but offers no apology - 650 CKOM](https://news.google.com/rss/articles/CBMirgFBVV95cUxQalpmelgtcUlGZ3A1dkhKMTVzR0hWNWFWSWl2a190MGZCMjhFX3pJSlFvMGRXY2xQcjdGR0l0d2YtaWlTZ1JSdVhlaXhVQlZTSkduSkJmRjIxb0xlZlptVWNyajloNlMxV0wwRmc2a012N3FLYWpOMEdLdm5va3BJbGJ1N2ZQREVYT1lTNFVYUlhsNU9CS2FtbmVYSnA0clZxSENEUF9HNnpEd1RCOHc?oc=5) — 650 CKOM (Fri, 24 Jul 2026 07:00:00 GMT) — topic: _forced adoption apology_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-08-05 02:11 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-08-05 08:30 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
