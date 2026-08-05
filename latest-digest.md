@@ -1,17 +1,12 @@
-# TD Global Policy Watch — 2026-08-04 19:28 UTC
+# TD Global Policy Watch — 2026-08-05 02:12 UTC
 
-## New worldwide signal items (1)
-_Unverified news signal — check each before citing in an episode._
-
-### AU
-- [PFIPC scandal: Arewa professional forum backs digital reforms, seeks full adoption in MDAs - The Nation Newspaper](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSnJialhld3B0X21fZFRrQnA1akJzMEgybi05X2FwN1BhU3hFVnRPeWFySURENW9zYlBJdzBzSTZnUjNMa1hreEJpUk83QVlfQUVrdjZENFE2a1poeGRpTE9saXRPOEF3bGhNU2hEbTFULUlibWRHYzFJSGxrN3lZc05La2o0YzRHaHZnRGpJcVA1ZUwyRExwNEZBTWFiYnRpOWxRMGFiX3VnSGFKS3dTOXhwd3R0dXFMUk9B0gHAAUFVX3lxTE1LbFpLZ0VUYW5LeWJBcU1hS2lKcXVxZWNGMWJzcHBsUllySHVHakdCSWhxaFg0RWo5WnZCR0pkZHhoMXdvZUtaNVBkQzJqYjVrNnFJUURlSHRXUW1wYmRjNjZTbVR4RTUxZDdMLVQxRXg1bnRraHhnblhBdjh2VTBacktUV1RyeGp1bEM1RktEbzdicmlWWkQ2bDFCb1VhOHVKN2hpUmdXXzZWanpfSTZKRFAzeXZqeDRsN2MwWUV5Uw?oc=5) — The Nation Newspaper (Sun, 02 Aug 2026 18:00:20 GMT) — topic: _closed adoption records reform_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-08-04 19:27 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-08-05 02:11 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
