@@ -1,12 +1,23 @@
-# TD Global Policy Watch — 2026-08-06 02:21 UTC
+# TD Global Policy Watch — 2026-08-06 08:31 UTC
 
-No new items this run.
+## Tracked bill status changes (verified, official source)
+- **SB 381 - CA adult adoptee OBC access**
+  - was: 07/01/26 — From committee: Do pass and re-refer to Com. on APPR. (Ayes 11. Noes 1.) (June 30). Re-referred to Com. on APPR.
+  - now: 08/05/26 — August 5 set for first hearing. Placed on suspense file.
+  - source: https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB381
+
+## New worldwide signal items (1)
+_Unverified news signal — check each before citing in an episode._
+
+### AU
+- [New law makes it easier for adoptees to get a copy of original birth certificate - DC News Now](https://news.google.com/rss/articles/CBMivwFBVV95cUxNT1QzeGJ5dDF4UVBtZnZGaEhja2lPNnNHYmRxMVR3WE4xOF9SQmU0aWxiV085RzBnUXFfcDJldjZxeWFvdVpKLXhYMW9hY1BDNkpWYmQ0UFY3ZmRhTHU4RTROSzhNRzBzYWZRQmt4UTdvS0FRZTFJVjF4aVlzR2hnc01acmRaUzJQT0QybGZBSDZwWGRuY1hsUUVFemprWll3N2g4ZlhHYTBVZGRUR1pmbVlNOXUwM2VZaGxaT2VVRQ?oc=5) — DC News Now (Mon, 27 Jul 2026 23:21:11 GMT) — topic: _original birth certificate adoptee_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-08-06 02:20 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-08-06 08:30 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
