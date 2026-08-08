@@ -1,12 +1,17 @@
-# TD Global Policy Watch — 2026-08-07 18:52 UTC
+# TD Global Policy Watch — 2026-08-08 01:20 UTC
 
-No new items this run.
+## New worldwide signal items (1)
+_Unverified news signal — check each before citing in an episode._
+
+### AU
+- [California adoptees can’t get their original birth certificates. That may change - Sacramento Bee](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbE4tTGRXTEFrU0RUUnlkMk9BOTAxYi1pMy1rd0M2SldzREt0Mmw3VHhxWjVicW5LRjhVSWY3NU9vYkJTRG5BOXc4YVBRRDcxcC1WQzUwTF80WVdlSHEwb19sajFINGhUWV8tT0tUVDg2LUxodHFHTmlSamxJeWFiWEtUY1BtbkZTOHRJ0gGLAUFVX3lxTFBWOEtxVW5FT0hmUzNKZzNFd0VfOUlDZEt4U2dFVkxoZGNDUDdQaG8tb0xlbmJ2dTFJcVV4NHgtM0lWbUtBY3lEck1Vdm1oRUJfVVEwVFl2bmhDZWJ4WUc3VHZVZjduNGF1a3VDVmI4d1JpYndvaXBkM3pqNkNNS19CNkpZbnFQc25pZHM?oc=5) — Sacramento Bee (Sat, 08 Aug 2026 00:30:00 GMT) — topic: _original birth certificate adoptee_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-08-07 18:51 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-08-08 01:19 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
