@@ -1,12 +1,18 @@
-# TD Global Policy Watch — 2026-08-10 13:01 UTC
+# TD Global Policy Watch — 2026-08-10 18:53 UTC
 
-No new items this run.
+## New worldwide signal items (2)
+_Unverified news signal — check each before citing in an episode._
+
+### AU
+- [‘Economics before compassion’ as state fights adoption claims - The Mercury](https://news.google.com/rss/articles/CBMinAJBVV95cUxQY2ZDZXRzMm5vZkVmSEJLQU5Qdi1qU2hxUXpCQUxNbko4dUx6YUppbVA4ZnpXWW1oV3pRWGhjY2FZN2t6WnItdW8wVDliZ2p4cTBQdWdVLU5jbjhGM3Vod2V4ZWpxMzBtd0F4U3JDTG1WZ09HQ3hwN0t3eS1jQ0NUVjFYUlExV0RnREMwTFJaOV9vWXBsQ3dxRGJMNEswbjBlQkJVclhfUnFNbVFJM1gyM0pHOG9EZUpCN0hsV2thU3FCX1lSY2lIRVVDTDdDSGZvRXdfeHp5Y2psN04yXzJ2OGFpQzg1cTBDdjN4TE9BTlQ5ejVtZm84c2pROXp0d194cXB1cDJmeUFtM0RnQ21rSnNOV0MtLTM0bFc1Mg?oc=5) — The Mercury (Wed, 05 Aug 2026 07:04:08 GMT) — topic: _forced adoption redress scheme_
+- [Promise of baby boy, Delhi woman loses Rs 1.37 lakh to adoption scam - India Today](https://news.google.com/rss/articles/CBMizAFBVV95cUxNSnlTbWpONWltaVh0NGtaem9ON3NzTFl3VWh4M2M5RkdtR3dQcFFYaTlwYjVLMGh4dWZ3N2lYMXpEZXFxWDZxTlRtakQxVlZkdk5mOE1BVVdBaDRna0dVR3V4MjctOFR6ZzhnbEdoaFNmQ2VQY0EwM2djZ1VqYmxXVVlqTUxkcXVmRzR5SFlpQkFQNjdRZVl4Z0xaSGlvVGl4Vmh5UVkzUGlGbnI3WEN1UTNFVUFfNUU3R0pBc1BjOG1qRXNfRldaRUk3Tkc?oc=5) — India Today (Mon, 03 Aug 2026 05:07:58 GMT) — topic: _adoption agency investigation fraud_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-08-10 13:00 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-08-10 18:53 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
