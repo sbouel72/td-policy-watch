@@ -1,17 +1,12 @@
-# TD Global Policy Watch — 2026-08-12 18:58 UTC
+# TD Global Policy Watch — 2026-08-13 01:44 UTC
 
-## New worldwide signal items (1)
-_Unverified news signal — check each before citing in an episode._
-
-### AU
-- [Delhi Police unearth online child adoption fraud, arrests two from UP - Hindustan Times](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZi1sZ0JodThYaVdULVhnUUJ2VnJ4S2l4dXB1V3RXWllldHV6OHhycUNISWl4S2c5UV9mLWJtcDh4ejBjZFlSbENDVXNyampmdHVUcThMazFsalZrdVF1MmVLRkpTWGt3Yk5qWjRjSWJZRkRraTJ4NkZXZzR6bGtlbFhvbVllRXFKdEZvT3plejJoSUNHTVQ1XzRGbHNfQVJFVG50NFBla0RhN2dIeXN3aEl2XzN3bHhBLUlnQTRwQTk1MnBQQmRuM2ViZw?oc=5) — Hindustan Times (Mon, 03 Aug 2026 07:00:00 GMT) — topic: _adoption agency investigation fraud_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-08-12 18:58 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-08-13 01:44 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
