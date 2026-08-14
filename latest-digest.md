@@ -1,17 +1,12 @@
-# TD Global Policy Watch — 2026-08-14 07:20 UTC
+# TD Global Policy Watch — 2026-08-14 12:59 UTC
 
-## Tracked bill status changes (verified, official source)
-- **SB 381 - CA adult adoptee OBC access**
-  - was: 08/05/26 — August 5 set for first hearing. Placed on suspense file.
-  - now: 08/13/26 — August 13 hearing: Held in committee and under submission.
-  - source: https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB381
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-08-14 07:19 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-08-14 12:58 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
