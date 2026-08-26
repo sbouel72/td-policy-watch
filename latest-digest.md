@@ -1,12 +1,17 @@
-# TD Global Policy Watch — 2026-08-26 06:43 UTC
+# TD Global Policy Watch — 2026-08-26 12:44 UTC
 
-No new items this run.
+## New worldwide signal items (1)
+_Unverified news signal — check each before citing in an episode._
+
+### AU
+- [Senator Montgomery Announces Legislative Public Hearings on the Governor's Budget - The New York State Senate (.gov)](https://news.google.com/rss/articles/CBMiywFBVV95cUxPeVhtd0ZtVWFKc1AzWlZmdnN5azk5UFlBUWdGZEtrSnl5aURtdDlma21qMTNKa256QU9jbnZ3VDFXRXRjajYxUmE0d1ppNEI4QThVeUJIWnZNZTdFVUgyN09Pd0lUaGRSRkF5ZzljdGt1ellLLUJ2ajlqT01Ic0RUMHRkajQybUJkbzZzVmlCWWwyUlAtYTNxVkZTWFE3V1RpSW55d0Z3dlhEMVVCMEY2NWZEN3pJZUtucGVaNTlYdlhQYWpNdEJ0bWNpQQ?oc=5) — The New York State Senate (.gov) (Wed, 26 Aug 2026 04:50:35 GMT) — topic: _adoptee rights legislation_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-08-26 06:42 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-08-26 12:44 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
