@@ -1,12 +1,20 @@
-# TD Global Policy Watch — 2026-08-28 09:25 UTC
+# TD Global Policy Watch — 2026-08-28 21:42 UTC
 
-No new items this run.
+## New worldwide signal items (2)
+_Unverified news signal — check each before citing in an episode._
+
+### AU
+- [Adoptee gains access to birth certificate under new Virginia law after years of roadblocks - WSET](https://news.google.com/rss/articles/CBMinAJBVV95cUxNZ2NhekVoLWZ3RG9ONU5zbmVPdlNoNTl3VHFOaGtxWWJveUhJZEpSZXZfSFRQUmJ2eWctRHJsX2hmSE9jMVN4WWlUWG9fRUFnejNmSEY1ZnZFaFYzTEZhcmFnc28zZ09yVXd1Wml0YzJUaEJxdmJKQWFiZlBNeE4xU1FzVGRjQzlpTXZURGRsalV4eGt3bWl3anZBOG81d2NONllKazZuTGVGMWU3TDZ4ejdpSl9idFdITXVCUUxpSFhfaEI2OHdabzRVLTZCaVdacmtoYk9vY09NdFhGSHhTWi16WnJFSjZFT1dHNVRXLUQ1SUMzdG1vOHpOWlR3LWl4UzZyWDVZeGhsRjhpR1dYYzVDQlI1QlN3ODNiQw?oc=5) — WSET (Fri, 28 Aug 2026 08:04:09 GMT) — topic: _original birth certificate adoptee_
+
+### US
+- [Foreign children born in Korea must be allowed birth registration, court rules - The Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KU1c4YUJ4WnRhZzN1NGFDRFMtN3Z6b25abG1MR1lkSTdRaTZzNWEyajE3alBremVzSVlMemY0cF9wRDhPRmI0WG5YNVRVWEZIN3ZtWjVNdw?oc=5) — The Korea Herald (Thu, 27 Aug 2026 08:04:43 GMT) — topic: _birth parent registry law_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-08-28 09:24 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-08-28 21:42 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
