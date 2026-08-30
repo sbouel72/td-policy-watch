@@ -1,17 +1,17 @@
-# TD Global Policy Watch — 2026-08-30 03:33 UTC
+# TD Global Policy Watch — 2026-08-30 11:13 UTC
 
 ## New worldwide signal items (1)
 _Unverified news signal — check each before citing in an episode._
 
 ### AU
-- [Adoptee gains access to birth certificate under new Virginia law after years of roadblocks - WCYB](https://news.google.com/rss/articles/CBMinAJBVV95cUxPWVM5c1A0UzJ2Si16dGZDbV9lMXdIaFBNS21DNHFOUnZIclhsQnBNcXdIX0dXdkJlcHBJR1Jhd3dtY09fTWN1SVYwWlNzanJZM3FDaFpVWkJJcEl2bm9JakpLVC16TDdMb3pTdkRLZnVzVkxsR0lleHdkTnVXUHd5M0dzREluSXZhTkpiWDlRMThROXJ3dzBSbVJZX0tWQ3B4ZnBuajhPS2I4bG04UXJ6b2hEVW9RU29NS3RfLW9SNHZDOFJReno0aUZxbzBLamd2QmJIUDNzdEwzRGF2QkZFaUlxUGhvdTNEWXlYSHBsd3NyNUR4MjdmeVBROTA5Nk50aHlnWnQ1NWVMbVRjaldqSzcweW9TLXlFbWxQUw?oc=5) — WCYB (Fri, 28 Aug 2026 07:00:00 GMT) — topic: _original birth certificate adoptee_
+- [Adoptee gains access to birth certificate under new Virginia law after years of roadblocks - WCYB](https://news.google.com/rss/articles/CBMiugJBVV95cUxObGltQ3R4bjVmLWlmY3lEX3J5dm1JbG80UERjbVJMd1pzTTRzMHlYNnhmVkI3OElDRDA4MHVaa0owMWtjWDJjZTdiTmt5NmdNLXltRkZfWmlZa2ZWOTBRZ2MwNGRNSDNwUlRhM3d1ekdSWms4amlySXhYN3Iwb1l1dFVsTTBSX3pyd0VkTjVBbzZvZXY4UGdybFZWaksxWXJmQlZ5VjNuUm8wek9sZGdhVy1JSFRvMUFJZTlLU3JvU1JVc1puMGZYbmVtcWRKZG9fck01dnJWNFB2bzYyZ2UxTVg5UUNlUXdhcThkdG1lVVJGYVpzLWpvRE5kTUVmUGJqNF90aG5HMHFTM1VESEJMMk1wV3dmVXpmWlJQeC1ENGdoTzRIUnhSZlFGVnRVd0Y3VXBXZXY3MkRxdw?oc=5) — WCYB (Fri, 28 Aug 2026 07:00:00 GMT) — topic: _original birth certificate adoptee_
 
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-08-30 03:32 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-08-30 11:13 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
