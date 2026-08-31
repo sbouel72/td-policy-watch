@@ -1,12 +1,17 @@
-# TD Global Policy Watch — 2026-08-31 12:39 UTC
+# TD Global Policy Watch — 2026-08-31 22:25 UTC
 
-No new items this run.
+## New worldwide signal items (1)
+_Unverified news signal — check each before citing in an episode._
+
+### AU
+- [I was told I was unworthy to be a mother. Then they stole my baby - BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOaExnMlRRdDUzeThleFo1emljODhvdHFxVVB2MVQ3N1ZIUUI0Zl85VFh6NXJFdG1EbEVZSF9yYVEtYVhfZ3BSREhhVkhjNTdERFpuZWxaQlVMNERo?oc=5) — BBC (Sun, 30 Aug 2026 00:52:50 GMT) — topic: _forced adoption apology_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-08-31 12:38 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-08-31 22:24 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
