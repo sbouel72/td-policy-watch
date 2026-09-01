@@ -1,17 +1,12 @@
-# TD Global Policy Watch — 2026-09-01 03:30 UTC
+# TD Global Policy Watch — 2026-09-01 11:04 UTC
 
-## New worldwide signal items (1)
-_Unverified news signal — check each before citing in an episode._
-
-### AU
-- [Adoptees Pushing Bill That Would Allow Them to Access Birth Certificates - KABC-AM](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZjBsQzRsbGg5LUtzdlgwXzVMRHVBN2RKNVlvS3Q4UVczWFJWNFNMV2JvXzlOcGNLZ2pRYVVMT3VwMy1zelJWazAxc0hscVJsdjVaLVNSZkExSW5FckVxekttdlVTUUgxTnZEMWlmbm55UVpSaGNYbmw4bDJ5VXZvN2tJU0tpYy1HSHRPc3VySzMzcUhmeFFDV1cyNExlbDl1eklNYUl3Smo?oc=5) — KABC-AM (Mon, 31 Aug 2026 18:13:59 GMT) — topic: _adoptee original birth certificate bill_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-09-01 03:29 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-09-01 11:03 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
