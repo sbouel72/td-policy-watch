@@ -1,12 +1,20 @@
-# TD Global Policy Watch — 2026-09-03 02:52 UTC
+# TD Global Policy Watch — 2026-09-03 10:39 UTC
 
-No new items this run.
+## New worldwide signal items (2)
+_Unverified news signal — check each before citing in an episode._
+
+### AU
+- [International adoptions to be more complicated / Article - LSM](https://news.google.com/rss/articles/CBMirAFBVV95cUxQcHg1M0Y4VGRONkk3VVNHdm1LSG5hTGtieTBkWXhWcEthWlE0MWVNemNWeWpYUEtVemdPeEd3eVJPQm5SYndxaXNsNzAtX2NaRkd5MEs2Y01DQlYxTzJkWmFpZFJZb1Z4cnoyWndaUS1sSnNXeGRRczhOZnA4TEJkbVNycC1KSlF3eUkyU2V0a2xhVlVPT0FTOEV4enRfNXRHRmlrV0pLa21ENUdD?oc=5) — LSM (Sun, 30 Aug 2026 09:41:21 GMT) — topic: _intercountry adoption banned_
+
+### US
+- [Forced Adoption from unmarried Scandal: Hundreds of babies snatched mothers could lie dead in hidden graves - PressReader](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUpvc1BKcFBUYWNnSWdNcWpWWm1TdUJiUWtYSlh0WmJBS3p6UWY1OHhhZEFNdlAxZ2o4dXV5ZFh4VUdOeko2UGFNZDhuaG1fV0JMZUY5REFlX1Z0cGtJcUZSN0RaMExEWldxay1wYnBQaGhWQVE4SkpwT0E2bzUyazIxRFprLXpz?oc=5) — PressReader (Sun, 30 Aug 2026 01:18:38 GMT) — topic: _forced adoption inquiry_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-09-03 02:51 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-09-03 10:38 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
