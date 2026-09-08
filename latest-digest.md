@@ -1,17 +1,12 @@
-# TD Global Policy Watch — 2026-09-07 21:05 UTC
+# TD Global Policy Watch — 2026-09-08 02:59 UTC
 
-## New worldwide signal items (1)
-_Unverified news signal — check each before citing in an episode._
-
-### US
-- [Bauchi Governor commends CAC for transformation from manual to advanced digital registry - apexnewsexclusive.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVG1kY2Z3eFRQMTNfN0NuNkdoVHBKaGl1aVBxdUUzRjFSVWRuMF9XbGwwYkt3eXVjZFlRZzlzTnBIVFA3VWlZZDIyNUdZejBQSU81NFFwVGdrSzN6U2xITWtYZ2dYVVRzSnd2Y0wzemsySWZiUWNsRm9tUGVqTk84dEJoMFk3OFN4RHhjSlNLcmlBeF8xQThPN0stRDE4aE9WREEtRUU3UFhYUElaY19lbFNQckJ1MzZodGR3SE5WbDRzaUQzUXc?oc=5) — apexnewsexclusive.com (Fri, 04 Sep 2026 07:39:38 GMT) — topic: _closed adoption records reform_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-09-07 21:05 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-09-08 02:58 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
