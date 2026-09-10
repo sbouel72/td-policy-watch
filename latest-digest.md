@@ -1,12 +1,17 @@
-# TD Global Policy Watch — 2026-09-10 03:01 UTC
+# TD Global Policy Watch — 2026-09-10 10:35 UTC
 
-No new items this run.
+## New worldwide signal items (1)
+_Unverified news signal — check each before citing in an episode._
+
+### AU
+- [BASW issues unreserved apology for social work's role in historic forced adoption - communitycare.co.uk](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVEJIX2ZISHZlQTgyb2UwUG5yM2VoN0V0WUM4VFhMWnc0c2xNcnloWS02UTZxNVF3UGYtM29OOUt0RURTZURSWUY4YjgxaTJZNGl5Y3J4Q2kzaEZzeGlrMlRScFVkN3g0aWdVRkFZT3BJM1MzOENCZ1NNdW1VejZwZFlNbXloTm91QmMxUVBIeTBMbUVhWHN4VTB2RUlYSEt0dW1SdGNvb2Z5STZZVGRJT0ExeFlHellhdkxYQ3FCRTR6bFU?oc=5) — communitycare.co.uk (Thu, 10 Sep 2026 10:07:02 GMT) — topic: _forced adoption apology_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-09-10 03:00 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-09-10 10:34 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
