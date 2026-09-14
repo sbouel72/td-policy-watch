@@ -1,17 +1,12 @@
-# TD Global Policy Watch — 2026-09-13 20:17 UTC
+# TD Global Policy Watch — 2026-09-14 03:18 UTC
 
-## New worldwide signal items (1)
-_Unverified news signal — check each before citing in an episode._
-
-### AU
-- [Social workers issue apology after film reveals the scandal of Forced Adoption - The Sunday Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1ZSRFRMdFltUkNORURSV0w2T0pfT2phTzh4d21wSHV0dW9HanNEWUstTjhxcDFZbWpIb0trbXVrUXJ2Z0NQS3BTdkRQYzZ6UjBwblMzRy03LXFOWkI0dHdieW9kZEtfVmZZbmdITHJLVGREelU5NmF6Mzd5MkpreHJRT00zTWtVcExKRWktT0RUQzRyU1RGM19NX1oyblcyOUgzb3l3NVlfVTlZc3c?oc=5) — The Sunday Post (Sun, 13 Sep 2026 14:09:06 GMT) — topic: _forced adoption apology_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-09-13 20:17 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-09-14 03:17 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
