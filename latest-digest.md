@@ -1,18 +1,12 @@
-# TD Global Policy Watch — 2026-09-14 11:45 UTC
+# TD Global Policy Watch — 2026-09-14 17:39 UTC
 
-## New worldwide signal items (2)
-_Unverified news signal — check each before citing in an episode._
-
-### AU
-- [Forced Adoption Redress Scheme – Adoptees - tasgreensmps.org](https://news.google.com/rss/articles/CBMiggFBVV95cUxOQjZvbndhaFlxRndwM0Z4TEoxdG5xdXdxU0xJZVM1cC1kakZMcmJ6SUtaU2lWQ3J3ZDNWLU1Lbm96ZjJHYWNVdEE2TWE5V3RZeVpLRFZPclpmbkNxTDVCeEIxQ1V1Y0FxZlRLRkNMeGwxOXpHWV9oTkR0VzN2eE9YUmln?oc=5) — tasgreensmps.org (Wed, 09 Sep 2026 07:00:00 GMT) — topic: _forced adoption redress scheme_
-- [Term Insurance Adoption Grows 1.5x Post-GST Reform; ₹3 Cr+ Cover Share Rises 32% Among HNIs - SMEStreet](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMVhZUmw4aEktdnNQTE9wdm43NHRvSzJmamVXeGtyS3JSSkpQZzZneGJPcmdCbFlUVGYwMUsxalVKT0ZpTXNfa3lhbjZCM0N3LXIxWV9uYmZXbGh0alVUaklYaUdGSzZQRHotSGtkQ0ZyaXpFSkZiRC1QNmJkWVdtaFpXWkVSeGRoeE9WckNBd2FWdEs3Vk1UWW5od01oTFk3bFVTeDlOMFZacGdEOXU0NFVGakRsbjVYTlhIb1o0SldsQdIBwgFBVV95cUxPMVhZUmw4aEktdnNQTE9wdm43NHRvSzJmamVXeGtyS3JSSkpQZzZneGJPcmdCbFlUVGYwMUsxalVKT0ZpTXNfa3lhbjZCM0N3LXIxWV9uYmZXbGh0alVUaklYaUdGSzZQRHotSGtkQ0ZyaXpFSkZiRC1QNmJkWVdtaFpXWkVSeGRoeE9WckNBd2FWdEs3Vk1UWW5od01oTFk3bFVTeDlOMFZacGdEOXU0NFVGakRsbjVYTlhIb1o0SldsQQ?oc=5) — SMEStreet (Mon, 14 Sep 2026 05:32:17 GMT) — topic: _closed adoption records reform_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-09-14 11:44 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-09-14 17:39 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
