@@ -1,17 +1,17 @@
-# TD Global Policy Watch — 2026-09-18 15:48 UTC
+# TD Global Policy Watch — 2026-09-18 20:23 UTC
 
 ## New worldwide signal items (1)
 _Unverified news signal — check each before citing in an episode._
 
-### US
-- [Reform accuses union of 'inflammatory' protest email - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tdWctU0hOYldUQ3ZCcVJocEdGZ3BtMVZkWVJNeFpWa25Yd2N1N2U2LTBaSFFJY2dqdmdrS2hET0RpbVRmdkFYZlFYelcxTVZETDdTUTJzLUVOQQ?oc=5) — BBC (Fri, 11 Sep 2026 16:17:51 GMT) — topic: _closed adoption records reform_
+### AU
+- [Forced adoption records could 'unlock' missing histories - BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ITnI3MUExYTFYZnlybEpINTBXVS1rbVRNZ0FyMVo0UlpXZ1J1c2dWOUdEM1JtNWxfSkJvckVUbDdHV1dxQVRxNTR5d3M3a1ZlWkdfekVFUm9zM04t?oc=5) — BBC (Fri, 18 Sep 2026 05:20:13 GMT) — topic: _forced adoption apology_
 
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-09-18 15:47 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-09-18 20:22 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
