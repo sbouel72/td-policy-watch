@@ -1,12 +1,17 @@
-# TD Global Policy Watch — 2026-09-19 15:20 UTC
+# TD Global Policy Watch — 2026-09-19 20:01 UTC
 
-No new items this run.
+## New worldwide signal items (1)
+_Unverified news signal — check each before citing in an episode._
+
+### AU
+- [After years of trying, we paid £22,000 to adopt a baby boy. But it was all a scam - PressReader](https://news.google.com/rss/articles/CBMidEFVX3lxTE1FWUlCSkgzSlVobU4za3FtTnJYMFFqdmcxWVVSZ3ZkR3N6N0hoOF96OTd2SGhhTjRtTk5jU0JlMUVlc29QTnFhRXNRT183OUQ4OHY3ZENSVFh3eU9PdWl4NkxGNHlMdkxhX1RKekpWWGhzTkZ1?oc=5) — PressReader (Sat, 19 Sep 2026 03:29:52 GMT) — topic: _adoption agency investigation fraud_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-09-19 15:19 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-09-19 20:00 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
