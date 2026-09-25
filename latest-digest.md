@@ -1,17 +1,12 @@
-# TD Global Policy Watch — 2026-09-25 16:30 UTC
+# TD Global Policy Watch — 2026-09-25 21:05 UTC
 
-## New worldwide signal items (1)
-_Unverified news signal — check each before citing in an episode._
-
-### AU
-- [Forced Adoption: Records could be held for 100 years under government proposals | ITV News - ITVX](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdzliQTU2WmZXa2l6UmMyU0trOHdocFFpZ2xxUlBRRWRFTmlPbHlPTEgydnJyeWhMNWRTWHJLNTJReGhLZjUwRDdsN3BzcEx3SWl5OFZSLXRvTEZWM2dNblRIeWt2aG56MzlVQjctRXdxemFqMHBhTDVzc2NqRzlmWHJvZXloeDFORFQyYVFiR3Ixei1ZTnZYNEVvbk02aEs4Mm5DeUxObGRCanU0OUJUdktFOEI?oc=5) — ITVX (Fri, 25 Sep 2026 13:14:40 GMT) — topic: _forced adoption apology_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-09-25 16:29 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-09-25 21:04 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
