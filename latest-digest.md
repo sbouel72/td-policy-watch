@@ -1,17 +1,12 @@
-# TD Global Policy Watch — 2026-09-26 10:47 UTC
+# TD Global Policy Watch — 2026-09-26 15:44 UTC
 
-## New worldwide signal items (1)
-_Unverified news signal — check each before citing in an episode._
-
-### IE
-- [First Council of Europe Strategy for equal rights of LGBTI people adopted, new report on anti-LGBTI hate speech released - coe.int](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWGw5WFVaTDhQN21vSDdKVU9IN1ltbEN0dDdXekxZNzdFVUhDR0xScWNfLUxwVVlQSE9uaW1kOXVmNHNMTHp4TUtfV2Q5eDB4RHdIYURfYVJ3NEwxRm9acUFnQUd0XzcxVWpWU3N5Tk51ZV8zOHFtWVdIMi1xOTVGdnRzNGZKa0xhN3RlNEVyWHVwX2FVT21VdVR4elRIMEFKVVVWWU5HanIyLWt5Q2hsSGxkaEdqelJzWW5uZWNmT2h6WFRocURrTmw1cTM4VlNBWmdpN3VQR24yMndLZk02UFlGbmZ5aXVUc2Nn?oc=5) — coe.int (Thu, 24 Sep 2026 09:12:21 GMT) — topic: _adoptee rights legislation_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-09-26 10:47 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-09-26 15:43 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
