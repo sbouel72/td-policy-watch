@@ -1,17 +1,12 @@
-# TD Global Policy Watch — 2026-10-05 13:34 UTC
+# TD Global Policy Watch — 2026-10-05 23:43 UTC
 
-## New worldwide signal items (1)
-_Unverified news signal — check each before citing in an episode._
-
-### AU
-- [California adoptees continue push in Legislature for original birth certificates - Sacramento Bee](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRDJKcldDcEZIb3EtbjByTlJ1R3RUVFJaQmhSYXY5Y3RSSW9nTE4zdGRadXJhbDl2RUJ2cmlWQ0ZTYkRmOFVUMlczNFRYN3hQbzBENmY2ZDVRM3RzV3VZYU5wbUllUVBPNW9NZHNRYXh0XzNIblNPZVlySEJrNkM2NFMwZkFPV05EUU5N0gGLAUFVX3lxTE81R1RhU01fZHpOVVBfUGdTYVlRRkdxTkxQNFBvVjJYMlVrQXJMaEV4ZXVldmx6RElDUGJXUnhWZnBxYlUxUXNFNmJIejFKUldMejN0R0VHV0lVbjBUeUNoTTJwUDQ0ZEZhQldJU1dlbFVoZ3pyVWthSDR4dTZNUzdmYzM1ajdpTk5WWUk?oc=5) — Sacramento Bee (Mon, 05 Oct 2026 11:59:00 GMT) — topic: _original birth certificate adoptee_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-10-05 13:33 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-10-05 23:42 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
