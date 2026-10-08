@@ -1,17 +1,20 @@
-# TD Global Policy Watch — 2026-10-07 22:40 UTC
+# TD Global Policy Watch — 2026-10-08 04:26 UTC
 
-## New worldwide signal items (1)
+## New worldwide signal items (2)
 _Unverified news signal — check each before citing in an episode._
 
-### NZ
-- [Tax reforms: Afri Invoice rolls out new plans to ease e-invoicing adoption - Business News Nigeria](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaEIxUWd4UlZfTWg4cVlKVVJRSUpheVFTLVlybXZTbkp1SElCN0NxWmlqSlBUblA2TjdLOGxfZWpINnBCQzdIendWMEZJZTdEWjlpbHRnSU5zR3BIUzIzV25DSFRkYkVMb255M1RUTk9nQVhlZkhoR2xwQ1ZnUTRUaHdFUDBWSXNaZGV0d0R0NndpUVJHX1NKdXhXQlhHZFZjV0c4akgzYkZDUjlJREgtaHYtYnRyR2c?oc=5) — Business News Nigeria (Wed, 07 Oct 2026 15:38:56 GMT) — topic: _closed adoption records reform_
+### AU
+- [State adoptees push for original birth certificates - Antelope Valley Press](https://news.google.com/rss/articles/CBMiygFBVV95cUxOdVJHdmNlM00ycUZldjdrZXh5bkZNTHZ4VTMxSHE2TmtHb2kxby1VY2lFMng1a1hILWw2R1lXX0tzVXBPczRzUDRSdW1nUjNfWVFqVURjeTRDMmdHZnBMTmNfVlZLZXo4SVFjRm1RSXdOQkJsZzhndEZjVWJVTnAxZE9aeG9OaXRBUmtmOW1EeHlQdWQyNWYzUWtfa0xwM1cwWGRib3dULXYtTUFKNEx5UWl5ZENaTVFzWVpYaGh5SjBXcVpBRUZiVFN3?oc=5) — Antelope Valley Press (Tue, 06 Oct 2026 11:00:00 GMT) — topic: _original birth certificate adoptee_
+
+### US
+- [California adoptees continue push in Legislature for original birth certificates - Sacramento Bee](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNUdUYVNNX2R6TlVQX1BnU2FZUUZHcU5MUDRQb1YyWDJVa0FyTGhFeGV1ZXZsekRJQ1BiV1J4VmZwcWJVMVFzRTZiSHoxSlJXTHozdEdFR1dJVW4wVHlDaE0ycFA0NGRGYUJXSVNXZWxVaGd6clVrYUg0eHU2TVM3ZmMzNWo3aU5OVllJ0gGLAUFVX3lxTE81R1RhU01fZHpOVVBfUGdTYVlRRkdxTkxQNFBvVjJYMlVrQXJMaEV4ZXVldmx6RElDUGJXUnhWZnBxYlUxUXNFNmJIejFKUldMejN0R0VHV0lVbjBUeUNoTTJwUDQ0ZEZhQldJU1dlbFVoZ3pyVWthSDR4dTZNUzdmYzM1ajdpTk5WWUk?oc=5) — Sacramento Bee (Mon, 05 Oct 2026 11:59:00 GMT) — topic: _original birth certificate adoptee_
 
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-10-07 22:40 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-10-08 04:25 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
