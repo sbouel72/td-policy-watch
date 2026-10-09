@@ -1,12 +1,17 @@
-# TD Global Policy Watch — 2026-10-09 12:33 UTC
+# TD Global Policy Watch — 2026-10-09 22:13 UTC
 
-No new items this run.
+## New worldwide signal items (1)
+_Unverified news signal — check each before citing in an episode._
+
+### AU
+- [Tax reforms: Afri Invoice rolls out new plans to ease e-invoicing adoption - Businessday NG](https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lWlZoWUJWelk2SGV5S3dnZU5rZFJub19UNjVhUnFYVlJTNDl0dEI2cUM2Z3B3QXE2bmlscWg3UU1WQXcwOW12RA?oc=5) — Businessday NG (Wed, 07 Oct 2026 15:38:56 GMT) — topic: _closed adoption records reform_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-10-09 12:32 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-10-09 22:13 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
