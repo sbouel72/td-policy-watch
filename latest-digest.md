@@ -1,17 +1,12 @@
-# TD Global Policy Watch — 2026-10-10 04:16 UTC
+# TD Global Policy Watch — 2026-10-10 11:53 UTC
 
-## New worldwide signal items (1)
-_Unverified news signal — check each before citing in an episode._
-
-### AU
-- [Why birth fathers shouldn't be overlooked in the adoption process - Live Action](https://news.google.com/rss/articles/CBMifkFVX3lxTE9Pd1N4VU90dG9wQjZaLUpSOFNoUy1tcnRaRFgwMm5ZSUlJaDdKUGh2UVZvTy1YZHJ2alMxM2RtZ0t0VGZqRUJjUklVcEEwZHF5cC12SXF2Nk1QbTF4RW5zMnZVZkFVdkhORXE2SVRONUZQTVRfa1pieU5kaEh0UQ?oc=5) — Live Action (Fri, 09 Oct 2026 17:50:00 GMT) — topic: _original birth certificate adoptee_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-10-10 04:15 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-10-10 11:53 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
