@@ -1,17 +1,17 @@
-# TD Global Policy Watch — 2026-10-09 22:13 UTC
+# TD Global Policy Watch — 2026-10-10 04:16 UTC
 
 ## New worldwide signal items (1)
 _Unverified news signal — check each before citing in an episode._
 
 ### AU
-- [Tax reforms: Afri Invoice rolls out new plans to ease e-invoicing adoption - Businessday NG](https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lWlZoWUJWelk2SGV5S3dnZU5rZFJub19UNjVhUnFYVlJTNDl0dEI2cUM2Z3B3QXE2bmlscWg3UU1WQXcwOW12RA?oc=5) — Businessday NG (Wed, 07 Oct 2026 15:38:56 GMT) — topic: _closed adoption records reform_
+- [Why birth fathers shouldn't be overlooked in the adoption process - Live Action](https://news.google.com/rss/articles/CBMifkFVX3lxTE9Pd1N4VU90dG9wQjZaLUpSOFNoUy1tcnRaRFgwMm5ZSUlJaDdKUGh2UVZvTy1YZHJ2alMxM2RtZ0t0VGZqRUJjUklVcEEwZHF5cC12SXF2Nk1QbTF4RW5zMnZVZkFVdkhORXE2SVRONUZQTVRfa1pieU5kaEh0UQ?oc=5) — Live Action (Fri, 09 Oct 2026 17:50:00 GMT) — topic: _original birth certificate adoptee_
 
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-10-09 22:13 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-10-10 04:15 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
