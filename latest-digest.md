@@ -1,12 +1,17 @@
-# TD Global Policy Watch — 2026-10-23 10:59 UTC
+# TD Global Policy Watch — 2026-10-23 16:26 UTC
 
-No new items this run.
+## New worldwide signal items (1)
+_Unverified news signal — check each before citing in an episode._
+
+### AU
+- [Winnipeg couple files complaint over birth registration laws after surrogacy legal hurdles - CBC](https://news.google.com/rss/articles/CBMilgFBVV95cUxPNllELVA4YWs3YVdPanB5NEN1LTRTY2ZFT0xaREN2UjFNcmJab2xDcFZ4dDFONDBxeFFHb242RmZRSlBmdGxmYzROUUlTblJTNVZrTElBQVVQUHpxMnNFTVVjYmFPSUJmVVBrdlRCMHgxM0E1LUxTcmtBb0ZjRU5mSUh6aE1vdlhQUXpxOGxBbF9Gb3dpTmc?oc=5) — CBC (Fri, 23 Oct 2026 10:00:00 GMT) — topic: _birth parent registry law_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-10-23 10:58 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-10-23 16:25 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
