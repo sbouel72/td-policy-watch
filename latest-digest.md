@@ -1,12 +1,17 @@
-# TD Global Policy Watch — 2026-10-26 22:16 UTC
+# TD Global Policy Watch — 2026-10-27 03:39 UTC
 
-No new items this run.
+## New worldwide signal items (1)
+_Unverified news signal — check each before citing in an episode._
+
+### US
+- [European Commission investigates Booking.com’s handling of scams and fraud - Travel Weekly Asia](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYnJIcWk5VHlTa3paVmJqZDAwaHczY3hwYXphNEE2NUtyWGR6TmRuYWFOVS1PYVlsVUZyZHdZRC1BalZTUUMyUjB1Zy1MT05mQzFoXzZMSDVILUJfSXRKUmhkXzJuZi1DM21nX1hmd2JVWjNBekhyVU1abVRFc2VRSUJabURpbXJMOGJpamxEN0xraGlyZTR6Z0hDVVU1ekM5OFZ5emx2X0JZUUE2X0JrVFJ2NDNSTk9nbFQxUUxjTFV1Y2JZcml3cG1FcndxaklfYVV0cQ?oc=5) — Travel Weekly Asia (Thu, 22 Oct 2026 10:57:14 GMT) — topic: _adoption agency investigation fraud_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-10-26 22:16 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-10-27 03:38 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
