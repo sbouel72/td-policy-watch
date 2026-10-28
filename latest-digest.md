@@ -1,12 +1,20 @@
-# TD Global Policy Watch — 2026-10-28 03:55 UTC
+# TD Global Policy Watch — 2026-10-28 12:05 UTC
 
-No new items this run.
+## New worldwide signal items (2)
+_Unverified news signal — check each before citing in an episode._
+
+### AU
+- [US Adoptive Parents are Stuck Waiting to Bring Children Home - Christianity Today](https://news.google.com/rss/articles/CBMipgFBVV95cUxOZHJWNV9qeDVJejJpRzFkeWFtSXpQTDhpVmFrTDNsSEtHMDdQTWZES3l6UXpEUWFycE83bHQzcFFsc09ka1lsMU5Bc21ra0JEdmQ4c2p5Ym5MMkU1ODJoNVdJaHA0dXZabHh4TGctRWxjTm1RRTk2anF0VE1jbm9wWDRhNWhLR1diQ29seWRCSTNHV1ZXSGx2RzVaWkNWTlF1OHpWeDdR?oc=5) — Christianity Today (Wed, 28 Oct 2026 10:02:17 GMT) — topic: _intercountry adoption suspended_
+
+### US
+- [Why DHS and DOJ use special agents to ‘root out’ alleged voter fraud - NewsNation](https://news.google.com/rss/articles/CBMijwFBVV95cUxPaGdBNlkwQXBvdjFndEkzY0I5WTM4N0I2c25SNFMxU2lQZUxSeFI1QjRCQ0JRNDJ1ZTg4OVp6cE44YUp5WGwyVVVwZi1Pc0V4UEdTTjM3dzJRY3NCV2VXQlkyOXpjOGR6SmVtOGNReUFkLTJ6cGhqSWc1aHVtekQycUFVc2ZocTJ4eXRYYnJxc9IBlAFBVV95cUxNM2FhalNRMXdNaXR5a1VBeENNaGpkTkhWX1FjQUFuOGJoWTZ5TUlrVjhXTFMyaGNxWmNHUkRWLWZrTUE2OWlOMlA4dFpQUFFBaVRnRGdUdFh4WEc4M1dWSXNqaGZuQTlJSVIyRlFLeVJUTS1IM0xYSGJfVlc4ak1uZGFmVjlxRnJhNkZsZGQ3ZnQ1TUlZ?oc=5) — NewsNation (Wed, 14 Oct 2026 07:00:00 GMT) — topic: _adoption agency investigation fraud_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-10-28 03:54 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-10-28 12:04 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
