@@ -1,17 +1,12 @@
-# TD Global Policy Watch — 2026-10-29 12:16 UTC
+# TD Global Policy Watch — 2026-10-29 22:25 UTC
 
-## New worldwide signal items (1)
-_Unverified news signal — check each before citing in an episode._
-
-### AU
-- [Caring for people affected by past forced adoption: training now available - Government of Western Australia Department of Health](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlVaSzh2R3BrRGdIa0w3VTRhWklya0JxSG5zamczZ0xLQ21SMUQzZzlsMDQwcGY2dnJwVTJJZW5XNXFubXVGSWRuWGNxR2FzaThqdU42X2pnY2RsOE0zQmNLeWM4X2VPd3hJSHlhVTNiYThiU3FpNUdBYlZ0aXBPeHN6aXJhbV9SUXM3WGhjaU9HUlFJNWZxYzhuamZVc2NDWVpveXk4MFJQVDBUZ0tKOUpn?oc=5) — Government of Western Australia Department of Health (Fri, 23 Oct 2026 08:17:37 GMT) — topic: _forced adoption inquiry_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-10-29 12:15 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-10-29 22:24 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
