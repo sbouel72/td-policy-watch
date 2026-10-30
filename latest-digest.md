@@ -1,12 +1,17 @@
-# TD Global Policy Watch — 2026-10-29 22:25 UTC
+# TD Global Policy Watch — 2026-10-30 04:19 UTC
 
-No new items this run.
+## New worldwide signal items (1)
+_Unverified news signal — check each before citing in an episode._
+
+### AU
+- [Cook Government Advances Birth Certificate Reform - Mirage News](https://news.google.com/rss/articles/CBMihAFBVV95cUxNTTJodWY3eEpKekdPYzk1Rm1jVHBwSVJYTlVwenRHT2dqMFZZbGRoYW9XQkU5eHVrUWxRR2FZeVJfQ0t6U0Z1VUV2ZmFYRzBoajNqMjIxUmZPTHVZUW1xOUFUblBBQ253a1JnemZvZ3RvNVk0U2ktellJUGFfMG5KNXJRSHo?oc=5) — Mirage News (Fri, 30 Oct 2026 02:32:00 GMT) — topic: _closed adoption records reform_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-10-29 22:24 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-10-30 04:18 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
