@@ -1,12 +1,17 @@
-# TD Global Policy Watch — 2026-10-30 12:06 UTC
+# TD Global Policy Watch — 2026-10-30 21:55 UTC
 
-No new items this run.
+## New worldwide signal items (1)
+_Unverified news signal — check each before citing in an episode._
+
+### US
+- [Adoptees urge South Korea to expand access to their records and improve family searches - myMotherLode.com](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa2Y4WXBEd0YxbWxIN1pQUXJiaTlrWUpRX2V1MXRVUm5PXzVXcWpGeXFMUTNFNDJKWjZhQjZ2ZW9oSFZycUhFSC1vLXlWMmI0ZGZCQnhYQ1diU0FZWXJ0d0UyVkMzUVBKUk9wbWJtY1Q4ZFNqTmY5cm9pN0V5UnZSTnZCMFZjWnpzRkhJLUJmR2MyaDNaTmNkWFR5dHh4YndWUnh5TDBOb0IwWVNpLVNma284TzkxeEFMdnl3dGlkUWVMellPd0t2dmotaGVmQlFVSnfSAdcBQVVfeXFMT284X0EwUE54S0RJY0RrTkFkM0xhT3dPeEF0NmlXTWhjZTJRSUl5MHliekwyRzQ3V0dBQ3ZoMm1ISHlKSjRUTGZWcUVnQTF2Qjlyb3ZFSjZrVXNpZ3p0SDQteEN3MGFDSndfWFhLOTVlTEtlUUh3TnZLdkFxNFV6SG0wQW5TYzlYUUlrLW9fSDFSbmlTOE4tZkxIV0h1a0FWS3kxak4xblJDaUt4NVM0Rzl2dlMxYzdBVV9USzNGRWktYWROV1BjQ0N4VTVRQ3JBY3J1Z1hJQUE?oc=5) — myMotherLode.com (Fri, 30 Oct 2026 11:30:54 GMT) — topic: _adoption agency investigation fraud_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-10-30 12:05 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-10-30 21:55 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
