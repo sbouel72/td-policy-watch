@@ -1,17 +1,12 @@
-# TD Global Policy Watch — 2026-10-31 03:59 UTC
+# TD Global Policy Watch — 2026-10-31 11:40 UTC
 
-## New worldwide signal items (1)
-_Unverified news signal — check each before citing in an episode._
-
-### GB
-- [Restrictive regulation on social media use adopted amid ongoing suspension of social media platforms - Civicus Monitor](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ3o2VEdSTEIydDl6ZnNNZmZiekJJRm44S1JCbG53M3pvVjRyLWhjVURRcDhCX01RVWd1VjhzM0xoMS1kZ09vMGt2LTlBdzNyZGNoZ1RIQUluZlIzbHNELXJJUHp2aElycUVHYU9zSUlJYnM2RS1QNmRnZkJpSVB2QWJpOURGTGozOURaSHF3ZnhmcDhRcGVjc2ZVTlcwczNJVVJ5dmUxeDFWeUNMR3NLcEpTNnV5Rno2aXlHX2d1TUdXTHBiaDFVUE16aWNlaFc5emZn?oc=5) — Civicus Monitor (Sat, 31 Oct 2026 01:35:44 GMT) — topic: _intercountry adoption suspended_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-10-31 03:58 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-10-31 11:39 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
