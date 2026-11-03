@@ -1,17 +1,17 @@
-# TD Global Policy Watch — 2026-11-03 13:36 UTC
+# TD Global Policy Watch — 2026-11-03 22:53 UTC
 
 ## New worldwide signal items (1)
 _Unverified news signal — check each before citing in an episode._
 
-### AU
-- [Court declares adopted child born in Malaysia a citizen - Free Malaysia Today](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdl9HZEZQc2J0MmxPb2w1VUZLWDZzQkNZbWkzWGw5bGxfb2JIY3RQUk80T1FIU25ITGJEVVA3SmkxVHJmRkM3NjkzaEd2U0o3WGhCNTBYMml0d1ozMTRZZFRHWG53d3Jiak04U2VRb1Z5YlpxZ3ZadVZlTWdpdEdTelBIMi1aMWZhcG9CRlNXRVE2c2EtMnM2dmo5R2VaeVpwb0d3bGoybUpTaVhNbVdfa3BOSmdsbFE?oc=5) — Free Malaysia Today (Tue, 03 Nov 2026 00:00:00 GMT) — topic: _original birth certificate adoptee_
+### GB
+- [Italy: Decree-law adopted after widespread demonstrations restricts civic space and undermines children’s rights - Fédération internationale pour les droits humains](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdjM4Rm8wSDNhY0p2TGVDeU94ZzV6VWhCNnBHN0ZKN0oyZ1lOZEo3LUJrbG83TGx6UjNORzVxdjNJMlFBcXlqeVctYTNrNlNzVVJqaHRnMGJtRGFnb3F5OGljejJmRU1BUTVIMllZUWVLaEJPUERieFhmc0t3UXdpMVhYSEhaTjhNZWc3LW0yV3Q1NXlNMENvRmloUTFQU0xwX2dHMmZpYVBTSWpTejB5aFZwRzlxd1pkQ2V3S1hNMWI?oc=5) — Fédération internationale pour les droits humains (Tue, 03 Nov 2026 14:44:59 GMT) — topic: _adoptee rights legislation_
 
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-03 13:36 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-03 22:53 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
