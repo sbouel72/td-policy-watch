@@ -1,17 +1,12 @@
-# TD Global Policy Watch — 2026-11-03 22:53 UTC
+# TD Global Policy Watch — 2026-11-04 04:46 UTC
 
-## New worldwide signal items (1)
-_Unverified news signal — check each before citing in an episode._
-
-### GB
-- [Italy: Decree-law adopted after widespread demonstrations restricts civic space and undermines children’s rights - Fédération internationale pour les droits humains](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdjM4Rm8wSDNhY0p2TGVDeU94ZzV6VWhCNnBHN0ZKN0oyZ1lOZEo3LUJrbG83TGx6UjNORzVxdjNJMlFBcXlqeVctYTNrNlNzVVJqaHRnMGJtRGFnb3F5OGljejJmRU1BUTVIMllZUWVLaEJPUERieFhmc0t3UXdpMVhYSEhaTjhNZWc3LW0yV3Q1NXlNMENvRmloUTFQU0xwX2dHMmZpYVBTSWpTejB5aFZwRzlxd1pkQ2V3S1hNMWI?oc=5) — Fédération internationale pour les droits humains (Tue, 03 Nov 2026 14:44:59 GMT) — topic: _adoptee rights legislation_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-03 22:53 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-04 04:46 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
