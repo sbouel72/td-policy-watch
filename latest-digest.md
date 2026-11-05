@@ -1,20 +1,12 @@
-# TD Global Policy Watch — 2026-11-04 23:11 UTC
+# TD Global Policy Watch — 2026-11-05 05:01 UTC
 
-## New worldwide signal items (2)
-_Unverified news signal — check each before citing in an episode._
-
-### AU
-- [Nigeria’s Exports Jump 25% as FG Reforms Boost Trade, Ports Revenue, Says NPA - Legit News](https://news.google.com/rss/articles/CBMivgFBVV95cUxOSTU5VUh1M3BMdFFGam9XbThqVkFYRXJra0Q0TWxaRHBqd1ZPa2tCay1URllQdURSWjdKU3hRUjB3cjZMRG9FaXNITjNNNVBOQmZaQ1hnX2d4cFR6SmF3MjBmMHZUNnB5dHRNSnRydmdkWE42N2E3UWhDMUpBWFhhZFhoRUtNemtPTmh4czhBZFl6d1o0TE5VOEowaGZmd3U4NVlycVhWSkVQV2dBMzExb09kSkg3dkVROGE3bERR?oc=5) — Legit News (Wed, 04 Nov 2026 05:40:00 GMT) — topic: _closed adoption records reform_
-
-### CA
-- [Surrogacy in Ukraine May Be Restricted: Who Could Be Affected by the New Rules - Судово-юридична газета](https://news.google.com/rss/articles/CBMivgFBVV95cUxNWmNJU2RqaURMX3JiM0R1ckdLNkJsazB5S2ZkUTdrMXNVQ3pvVldJX0Qyb0t0RTg0MUJ0ZW9YMjhhQXpsb0M3Sm1xNTVYMF9Jck82MEZkcU9QVlU3UFJNdEFYalZ0U043dWQ4YjVBZzhZdE5TSU1OYXFFcUZsWTA5cENqZmlJb0c4Q1lVWnJOTTl0a3JCdzRteXdCQms5d0VkN2lYUWlwWEdNcG1lMjFrVzF6amFUcWlkbTUzYU9n?oc=5) — Судово-юридична газета (Wed, 04 Nov 2026 10:48:00 GMT) — topic: _birth parent registry law_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-04 23:10 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-05 05:01 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
