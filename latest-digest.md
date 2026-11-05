@@ -1,20 +1,12 @@
-# TD Global Policy Watch — 2026-11-05 13:58 UTC
+# TD Global Policy Watch — 2026-11-05 23:15 UTC
 
-## New worldwide signal items (2)
-_Unverified news signal — check each before citing in an episode._
-
-### GB
-- [Italy: Decree-law adopted after widespread demonstrations restricts civic space and undermines children’s rights - World Organisation Against Torture | OMCT](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRXZhcGM4TnY0NHN4NDdfaUtaeFF3QktEYzNBbmxQaGZSMlgwcUVCV3NSR3JFOHhnMXo4S0hab1VrSDZjbVQ1XzlwSTl4WUZSUUxoM1dGVG1sQXFIRkhBSFNGSTBlVDBJLXhVU2pRa21kNFpsOU45aU84VmQtMXZwN3Y2RHpwRTVaME95czBpSUtaYkVQZ1pqb3A0RU11Y21Oamw4WEZlUVR1ZkxKZHZTQzB2WHg2TERKdEpkbEx5bEMxdHd1TjlwZUw4VDFyODRoZU5kSGtCTzU2Y25rRkJKaWxIVDNiS2xuTElF?oc=5) — World Organisation Against Torture | OMCT (Tue, 03 Nov 2026 17:13:00 GMT) — topic: _adoptee rights legislation_
-
-### US
-- [Adoptees urge South Korea to expand access to their records and improve family searches - WTOP News](https://news.google.com/rss/articles/CBMivwFBVV95cUxOOE9tRk5sNXU2b19wamV2MWpNUzAtdVZRVVlRRnhlNEI1XzJjY0Q3MGhNUTFtQjhOUDdsb2ExWnZpYXYxaFJXbDZZR2lmQllHT1JqWVdiQ1Q1b2daaUdoMHgyN3RsMG9Zbm9PTVNwYUh0dGRmMElsRXVuZ0liejRiMm9VbmNyZl85a3pqd0dETnVfQ2MtZmZ6ZmRkQ2tLYUVDZ05ldm5LZ0RfNXc3OF8tS180NzdWQ0JQay1QNHQwcw?oc=5) — WTOP News (Fri, 30 Oct 2026 08:04:33 GMT) — topic: _adoption agency investigation fraud_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-05 13:57 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-05 23:14 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
