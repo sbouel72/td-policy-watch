@@ -1,12 +1,17 @@
-# TD Global Policy Watch — 2026-11-06 05:01 UTC
+# TD Global Policy Watch — 2026-11-06 13:43 UTC
 
-No new items this run.
+## New worldwide signal items (1)
+_Unverified news signal — check each before citing in an episode._
+
+### CA
+- [‘As if she didn't exist’: Polish court declines ruling in same-sex birth certificate case - TVP World](https://news.google.com/rss/articles/CBMikwFBVV95cUxOZmRaZFlvWWVZanBXZnZSM1V0d3VDSFdURjJlWTRUaTVqdzVYdER6Nk44WXN2VFZ1ZjNxbTMyc1JYLWhvRDdpWVZyRnF3WHpnc3dIX2RaeTVIQ3JaN2xXankyeWZ5bklkVndtTDFkWWE0MkFZUTV2Ymtlc3c1UmYwaGJ0YnZWcWllUEhzVmNvc3lmUUk?oc=5) — TVP World (Fri, 06 Nov 2026 10:16:00 GMT) — topic: _birth parent registry law_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-06 05:00 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-06 13:42 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
