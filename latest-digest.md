@@ -1,12 +1,18 @@
-# TD Global Policy Watch — 2026-11-07 12:26 UTC
+# TD Global Policy Watch — 2026-11-07 21:26 UTC
 
-No new items this run.
+## New worldwide signal items (2)
+_Unverified news signal — check each before citing in an episode._
+
+### AU
+- [Woman accused of inventing newborn baby to scam two West Palm Beach adoption agencies - WPEC](https://news.google.com/rss/articles/CBMigwNBVV95cUxPQUJaRmhDMkdGeFlzSmxLMlpBSEUyRWk4T1RxS2VLX2JtTngyaTd1dkVLdnd1ejBDR2YtTkFGRWRRUGlBTE12RXhUTjBRZGxsRW95Y1pDZTA4NVJWRUJCM3ZkaVJRM3Z5eHdtaW9VWHJiRmVJR0xMclU1VTNNVGpoT1VOTFFnUWpyTVpfMlRTYVZrVUVFNV9zblVNVmlfT3JCM05DQmdXVGFIdE43Q1I0UXczWV9GNVBsVWI0eE5QTmgyYVJuQ0hjbDVDd2EtRDlwT19jVkVleS05WFZ3WGV0YVVXOG1fUXFUR2s3cHRSU3RicjJ4cTVXVVphWldTdjN3OGdQaVJnbTEzUTJoMENPdUdaYWo3RE1IU3d2VXdMSEdJVnR5UFZUbTd6TE9NMzRCRG5WWHp0MWtHZVdDZGVOT3p5Q1Jab3BhOGN4SktiWldBRmVYSU4tWlJwSHBjWWx3UTgxMmxHeXU0amNnSWk4T1V1WVRBQjZjb3hXNVRZSklSS1E?oc=5) — WPEC (Sat, 07 Nov 2026 17:34:51 GMT) — topic: _adoption agency investigation fraud_
+- [West Palm Beach woman accused of faking pregnancy in adoption fraud scheme - WPBF](https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ2YtanAtaTM1YUlCUWs4WHpHZG83Wm05U0NwYzBqRUpjblIxb3MzM3Q3LWxZbG5mb2FwcmY3OTVOZmdRZ0tnUUdTcmpmWnVwaHVKZGd6cVdsSFk1VU1ZRVFlQ3d4aEkxMUJtTnd0MDhFZGc4N0dCM0kwcmFKajZjT3dBem1XU2s?oc=5) — WPBF (Sat, 07 Nov 2026 16:06:00 GMT) — topic: _adoption agency investigation fraud_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-07 12:25 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-07 21:25 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
