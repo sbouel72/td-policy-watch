@@ -1,12 +1,17 @@
-# TD Global Policy Watch — 2026-11-09 04:36 UTC
+# TD Global Policy Watch — 2026-11-09 15:08 UTC
 
-No new items this run.
+## New worldwide signal items (1)
+_Unverified news signal — check each before citing in an episode._
+
+### AU
+- [Togo Moves to Revise Land Code Seven Years After Adoption - Togo First](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVHVEeld2N2tRUWZOU1E0R0xPMlBickpvMEpBcTBkcVM0dnNMSnBPRjdTb0k5czFFaHlrMmhwb2FRVUVpQWVjLXJlUTByV3hSQVRudFo4NXNST1VUY2dvc2xDYkpubDY1SDFVd1R2XzFFSm9rQmdnc25NdDhSNzZ6RW9lb2NSeWwxMjluNTZpamNiZnhaWDl3MzV4V2FUUjZqN1NGalphNU1BWUtIMDZhelFQWmdHZzZR?oc=5) — Togo First (Mon, 09 Nov 2026 14:59:41 GMT) — topic: _closed adoption records reform_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-09 04:35 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-09 15:07 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
