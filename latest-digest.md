@@ -1,12 +1,17 @@
-# TD Global Policy Watch — 2026-11-10 01:09 UTC
+# TD Global Policy Watch — 2026-11-10 14:18 UTC
 
-No new items this run.
+## New worldwide signal items (1)
+_Unverified news signal — check each before citing in an episode._
+
+### IE
+- [Young doctors promote the adoption of international treatment standards for endometrial cancer - vietnamnews.vn](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX3o3Y1REYmlvZGtueXZ2Y0xIcUVielFlY05KZjdHMXcxclMtQkttbjdBOUhOcnNFV2JodUxsSWp5Xy1nSEZDQUdQcGN2LWR6Rll6OXduOWk5RHdrMHRFeGdTWWZvNF9mOW9RaFJpNkpuWURGOVNQUmZzZEdVMFdwaThBcG9URWRpR1ZPT0JVRjBDc2xXWkJWWWljUzZxVGhWVFpCSW1HSGdfNkgxeC1BMHJma1Yxbi1rY3VqN09TM3hJdHpYeXl0TWtEd0VkbnFRbXA5eQ?oc=5) — vietnamnews.vn (Sat, 07 Nov 2026 02:05:00 GMT) — topic: _intercountry adoption suspended_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-10 01:09 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-10 14:17 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
