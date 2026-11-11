@@ -1,12 +1,17 @@
-# TD Global Policy Watch — 2026-11-11 04:39 UTC
+# TD Global Policy Watch — 2026-11-11 13:31 UTC
 
-No new items this run.
+## New worldwide signal items (1)
+_Unverified news signal — check each before citing in an episode._
+
+### AU
+- [The case against adoption - Prospect Magazine](https://news.google.com/rss/articles/CBMif0FVX3lxTE80cU9QdktNWS1WU2FRZEhaLVFDSlEwLVJaQV9tZ1hDcUJDNnd1ZXcxTWRrbGVrMll6MTdEQmF3b0pieWkxMVRsd3pRc09mLTFoSjBHVWY1eUY5Y1dzall6RklvaVF4cFVEMi1BU0k1a0Q5UGt3NzlFaU1LQ2lpOXc?oc=5) — Prospect Magazine (Wed, 11 Nov 2026 07:02:41 GMT) — topic: _intercountry adoption suspended_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-11 04:38 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-11 13:31 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
