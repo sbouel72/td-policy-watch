@@ -1,17 +1,12 @@
-# TD Global Policy Watch — 2026-11-10 22:49 UTC
+# TD Global Policy Watch — 2026-11-11 04:39 UTC
 
-## New worldwide signal items (1)
-_Unverified news signal — check each before citing in an episode._
-
-### AU
-- [Double birth simulation conviction struck down - Daily Tribune](https://news.google.com/rss/articles/CBMihwFBVV95cUxOVUdCRUowd3phTlFFcV9LYU5yeUJlaENWY3B5V1NUR2Jwc2tJUmNhczh5Q1d6ZzQ4ZEFWa09HMko4eVdLT1BmMEdZTTlnMzVCNVpIdjdGSHhjTmZOWUcycFZuSXZvWXI0WlZsdlZCMFpDRlVSQTdwcWJxLVAwdHVIMGxJdDlMWDg?oc=5) — Daily Tribune (Tue, 10 Nov 2026 15:58:51 GMT) — topic: _birth parent registry law_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-10 22:48 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-11 04:38 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
