@@ -1,12 +1,18 @@
-# TD Global Policy Watch — 2026-11-12 14:35 UTC
+# TD Global Policy Watch — 2026-11-12 23:12 UTC
 
-No new items this run.
+## New worldwide signal items (2)
+_Unverified news signal — check each before citing in an episode._
+
+### US
+- [Phulwari Udhampur facilitates inter-country adoption: Child Shiv finds a loving family in Canada - Jammu Links News](https://news.google.com/rss/articles/CBMixgFBVV95cUxNZWFGVDMzMzFpRmM0Qm9VOTVhYVFHZFJrSDd0WkpNOE16U3pmdGExUmMybVRoZnFLd1NVb3Fja0xqOXpERWl5Z0U4WkppSkduOHhZOVlPRlN4T0hLUjNkdlVTeEhIVGk1bWhsQ3NnbkJRNWkyX1h1VkVEWjNqTU5ueW9uX0RJZGdMZFp1c3lHYnV4aXZfQVlPSTI2VzFFSm9WT19zWjUwd2I0SkJBRmhUODFSSW5IQ25iMHZ0UEs5V1B2Nm5KSXc?oc=5) — Jammu Links News (Thu, 12 Nov 2026 14:55:19 GMT) — topic: _intercountry adoption suspended_
+- [Black Market Babies - Honolulu Civil Beat](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KMFVsYVUxRmxVTXZSb281c1NvTVAxdmhaei02ZmJtWnJnOUNaSzB1NmREZ2xoQzktVVNqS0hfalRFSS1mOGZrZVRpdFA4bFdySVNxVFZ0S2t0dw?oc=5) — Honolulu Civil Beat (Thu, 12 Nov 2026 21:03:24 GMT) — topic: _adoption agency investigation fraud_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-12 14:35 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-12 23:11 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
