@@ -1,17 +1,18 @@
-# TD Global Policy Watch — 2026-11-11 13:31 UTC
+# TD Global Policy Watch — 2026-11-12 00:02 UTC
 
-## New worldwide signal items (1)
+## New worldwide signal items (2)
 _Unverified news signal — check each before citing in an episode._
 
 ### AU
-- [The case against adoption - Prospect Magazine](https://news.google.com/rss/articles/CBMif0FVX3lxTE80cU9QdktNWS1WU2FRZEhaLVFDSlEwLVJaQV9tZ1hDcUJDNnd1ZXcxTWRrbGVrMll6MTdEQmF3b0pieWkxMVRsd3pRc09mLTFoSjBHVWY1eUY5Y1dzall6RklvaVF4cFVEMi1BU0k1a0Q5UGt3NzlFaU1LQ2lpOXc?oc=5) — Prospect Magazine (Wed, 11 Nov 2026 07:02:41 GMT) — topic: _intercountry adoption suspended_
+- [Intervjuad i det brittiska magasinet Prospect - WordPress.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxQOEtoOU5KaDhyTXRqeXVOeGxESFRoUlMxamFyRnZBYVMyWkxYVW1pbDg1R2NUQnoyZW9icjd0NVFzS1lIQjlHelNta3NYWldRZjFzcm16YlFvREVXbDJfcThuNXFjZkVxSXgyS3hfSEs3ZENZTDVSVDdNdHp4b29yLXdkcHBxb0pSV1haQkczd3NqV05IcjZ0Sl82Yw?oc=5) — WordPress.com (Wed, 11 Nov 2026 14:08:40 GMT) — topic: _intercountry adoption suspended_
+- [Five Arkansas Rehab Services employees fired amid fraud investigation - KATV](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWXlYRWUwQ2FzQTM5dThGal9oQUNNY0I4ZE9meXk4V2JuYWJNcFlkTVBrMlh5V2p3UXJsNEdlT0RjM2UzTGxfU3IwNVA1dWFCT1AyTDBYdk5zbGxyQnJTQjZBb2U3ZXNKbFNGc0pWUmRYOEx1Z2NqNHZTLVlQVTc1ZXE0ODJGcmE2ZG9ILUk1dkpnMzg4bHhhRC04Rks2OFJHSTFqSjNzSlhCQ3NzNGwxU2Fwb0dGeTYtdHRRM0lPM0diSTdWN0dhdUwtRGMwcXBRdi15a004VFo1RmlxMjR4S0xTanlBMlk4Q0pr?oc=5) — KATV (Tue, 10 Nov 2026 00:37:15 GMT) — topic: _adoption agency investigation fraud_
 
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-11 13:31 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-12 00:01 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
