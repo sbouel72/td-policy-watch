@@ -1,12 +1,17 @@
-# TD Global Policy Watch — 2026-11-16 14:45 UTC
+# TD Global Policy Watch — 2026-11-17 01:33 UTC
 
-No new items this run.
+## New worldwide signal items (1)
+_Unverified news signal — check each before citing in an episode._
+
+### GB
+- [Regtech News – AML, KYB & Compliance Technology - FF News](https://news.google.com/rss/articles/CBMiP0FVX3lxTFAzblZZTFJEQ0IzWlJtNnFuTjBKNGtxSEM5MXdvZlRUZGNiX3dCVnQwcEh5ZTRyWWE0bW1BaVNRYw?oc=5) — FF News (Mon, 16 Nov 2026 09:02:16 GMT) — topic: _adoption agency investigation fraud_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-16 14:44 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-17 01:32 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
