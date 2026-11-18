@@ -1,12 +1,17 @@
-# TD Global Policy Watch — 2026-11-18 15:04 UTC
+# TD Global Policy Watch — 2026-11-18 23:52 UTC
 
-No new items this run.
+## New worldwide signal items (1)
+_Unverified news signal — check each before citing in an episode._
+
+### NZ
+- [Committee of Ministers approves new Council of Europe Action Plan for Ukraine 2027-30 - Council of Europe](https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3lvZHdyWXB4NG9PZHVLaUFnM2dRM1lxMzlsNjE2eG9uTnlpVTF0SEF2WXRDUGpWeVMyZmNIS1BJR0NOeDdQMlc1SGJOWGRXYXc0YnVnUkhESFVvdHdaNnlTT01BRUFBcHFBRHJFQWZ3cWVHbFRLb3ZBTXgwaU01MjJTNGFOMTV4ZjdYUWNWYl9QRjlwaHQyTnFzb2g1RmpBUmdnRG05Z0JhYk01R0kxTTVxWERORVFBNDk3aGFB?oc=5) — Council of Europe (Wed, 18 Nov 2026 17:19:15 GMT) — topic: _adoptee rights legislation_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-18 15:03 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-18 23:51 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
