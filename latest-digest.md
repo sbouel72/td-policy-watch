@@ -1,17 +1,12 @@
-# TD Global Policy Watch — 2026-11-17 15:28 UTC
+# TD Global Policy Watch — 2026-11-18 00:30 UTC
 
-## New worldwide signal items (1)
-_Unverified news signal — check each before citing in an episode._
-
-### AU
-- [Adult adoptions: A new side to Korea's multicultural families - The Korea Herald](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qdl9UMm52emZwRVdDUWdnR1RfTnFvSkVUbm40SHVpTk52clZ1X3kweGs5enZXOWxUanhNNlVwTTBiZFE1RWFwajFULWxWeWFDRm81bVJvOA?oc=5) — The Korea Herald (Tue, 17 Nov 2026 02:25:26 GMT) — topic: _birth parent registry law_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-17 15:28 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-18 00:30 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
