@@ -1,17 +1,12 @@
-# TD Global Policy Watch — 2026-11-19 15:14 UTC
+# TD Global Policy Watch — 2026-11-20 00:17 UTC
 
-## New worldwide signal items (1)
-_Unverified news signal — check each before citing in an episode._
-
-### GB
-- [Interview with Michaela Dojčinovičová from the Human Rights League - European Council on Refugees and Exiles (ECRE) |](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNTNLb1F6RC04eXBqTWZWU0daZklaTFcxcHBBR1VUR0NTQW50UUFMcWpDaWhwNXpGMW5weF9RSUIyY1VnTjgyN085LWVVcFFqVDhLSzlYaXJtdW5LbTFPd2VXNVV0M1VxU3I1MTVIbUtwNmh2VlNaT2s3cVF3dkNpQUQ2Um5lYXFEeTZXeg?oc=5) — European Council on Refugees and Exiles (ECRE) | (Thu, 19 Nov 2026 11:35:39 GMT) — topic: _adoptee rights legislation_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-19 15:13 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-20 00:16 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
