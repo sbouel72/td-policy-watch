@@ -1,12 +1,17 @@
-# TD Global Policy Watch — 2026-11-21 05:34 UTC
+# TD Global Policy Watch — 2026-11-21 14:11 UTC
 
-No new items this run.
+## New worldwide signal items (1)
+_Unverified news signal — check each before citing in an episode._
+
+### AU
+- [Beyond apologies: Korean adoptees, families renew calls for government accountability - The Korea Times](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPekw3LVN0ZUcwMVJTb3pqRWxYdXFMUTUyNlVGUWJ6VUM3azZpdkZVd3NUZGd4aWMwYnBabjBhM3dSRDF6SEZ0VXBJTmZ3OXkxMzN1TmlabHFacnFLWTllN2I1cURZRUtsNEh6Z21Ybk1KOHZEUzVSZ0pFVUJYdjloNFZZc3lYNDFwWDlIdlhRdkt1M1hSMHYyM1lFR0s3M1J6VGhfMXlOUjNMOVpaYWd6MDdaQzJ6dVFVb0tPLUV1TGJIdkhfX2pWTnYtRzVQYy1vQlRaUUZORjRJOHZnTTNMUFNn0gHnAUFVX3lxTE1IdUZXQV9HTnVDQ3hDMGdLR2E0NTRVR1VSZGZEdF9pVjJSZmVSVV9hampPU0hqSWRPV2VXcExITFphLXNOOVF3dE5nazZ0NGxqUkc1a1E5MnpQN2xVTFFrMGdVdGRQcUNWRGRMVHdEelVRMEJXNHNpOWpNeHo2ZFd5VWhCSlJ6Mi1TQUt1U3drbkdjcXBBckRyc25YakdSXzNWUW5vQU5hNEtWSjREcmZPT3UtTHpwZk1mOE9ncXgyZExhajFGLVdEOHRzek5JeHM1NjQ0Z2FvYzZZMDR4LU4xaWVtZl85TQ?oc=5) — The Korea Times (Thu, 19 Nov 2026 19:40:00 GMT) — topic: _intercountry adoption suspended_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-21 05:33 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-21 14:11 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
