@@ -1,17 +1,12 @@
-# TD Global Policy Watch — 2026-11-20 23:39 UTC
+# TD Global Policy Watch — 2026-11-21 05:34 UTC
 
-## New worldwide signal items (1)
-_Unverified news signal — check each before citing in an episode._
-
-### GB
-- [AI in investigations: Highlights from IACP 2026 - Thomson Reuters Legal Solutions](https://news.google.com/rss/articles/CBMijgFBVV95cUxQNFNkdHQ1c1ZFaXBwdHB0eVp3eExFN1NINGo0MHBrQWk5TS1CSjlqeWJWS3hpM3lxWTFHUlU3RUZBYVA0dWo4ZXlET3pJa2pEUTRGQVp1MkRoUzZNbHpVeEw3bHlkZEsxeWs0X1BKa05GcE1lTVVmenhjOFY2ZDF4TFhmOF9PeTlYOExmWTZR?oc=5) — Thomson Reuters Legal Solutions (Thu, 19 Nov 2026 20:52:34 GMT) — topic: _adoption agency investigation fraud_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-20 23:39 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-21 05:33 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
