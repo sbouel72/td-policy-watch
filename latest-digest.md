@@ -1,12 +1,17 @@
-# TD Global Policy Watch — 2026-11-21 22:45 UTC
+# TD Global Policy Watch — 2026-11-22 04:59 UTC
 
-No new items this run.
+## New worldwide signal items (1)
+_Unverified news signal — check each before citing in an episode._
+
+### NZ
+- [Woman accused of inventing newborn baby to scam two West Palm Beach adoption agencies - WPEC](https://news.google.com/rss/articles/CBMigwNBVV95cUxNV1ktSWJZUmFodGd6c3hRcjNuUHo1Q0NkT3hoNzhUa1BYSDJWd2NqRklQdDNWajNoN2ZBNTZLamw3VHJ2VmdfYzB2RjlGUV8wN2hVS1NTcWl2N2Y0VlFTUV9nY284R09DbkFxd2NWVGxDMmtGdHJhNDdiTjU3QXQ4Qm9JQlpnZVFvbkZVTUNjc1hzTl9ZUmNIOElaVFFDNGNYakNmcDByQlhwRGRuektRdHFnZHlOS3htNmpxTUhaNHZTR1oyVW0zbDE3TFRJT1hweUVnY05PRjRpODkwYkJZZ3hlM0x6SjN3WlNXczFWcTVOUHJsUW9EUlIzVnJGeTBaS1NEUFN6VGlqcnpmeXhlQzVGR0JnUVpmU3RPdVlGYWNDSHpPMjlJWlNIc29kekpQbzFlQjBTUmtFMTRVX1FuLTczMXRYMkdpQlhSZnlLS2VhQ2hSUDh5Mm80cllPOHdnd3QxZ2lQQTdEWHl0Vmk4TmpRVDJUTmlqanR6WnlZcDBaQ0k?oc=5) — WPEC (Sat, 07 Nov 2026 08:00:00 GMT) — topic: _adoption agency investigation fraud_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-21 22:45 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-22 04:59 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
