@@ -1,17 +1,17 @@
-# TD Global Policy Watch — 2026-11-22 14:00 UTC
+# TD Global Policy Watch — 2026-11-22 23:13 UTC
 
 ## New worldwide signal items (1)
 _Unverified news signal — check each before citing in an episode._
 
 ### AU
-- [Trump must end UNICEF's war on international adoption - Christian Post](https://news.google.com/rss/articles/CBMimgFBVV95cUxNRnQ0MmRRTjBtQVNtZnR3QTlQUHJuNk11WTRlQjVubDc2SVB6Y1VoSWlFOG4wdEdwRnZicmZIQ1hPTGdfUmYweVVrT0g5UjBKb2Y2RTVKaUdnWjNmM05RcWY2NXhucDlMc1luUlBCNzg0UVFVUzJpa1BQUmFvUlZIMkJqLWUwdHBoRDZQZHc4TnhHM3RvcmJzel9R?oc=5) — Christian Post (Sun, 22 Nov 2026 05:01:05 GMT) — topic: _intercountry adoption suspended_
+- [Mothers Apply for Adoption Redress - Meg Webb MLC](https://news.google.com/rss/articles/CBMidEFVX3lxTFBCUjMxZmh5YnhKOXI3d0dRZWJBLXZnQkt6b2ZVRGdwUFQwUWRlLWFfc1pkajJmdFdFV1N1dm5GM3NrY3pXNkdTOGV4cExtNGh6N0lELW5kWkdDSm9fWWdpM1JfWHBkN2xreDdwNi1kWjBoVVFO?oc=5) — Meg Webb MLC (Fri, 20 Nov 2026 08:00:00 GMT) — topic: _forced adoption redress scheme_
 
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-22 14:00 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-22 23:12 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
