@@ -1,17 +1,12 @@
-# TD Global Policy Watch — 2026-11-22 23:13 UTC
+# TD Global Policy Watch — 2026-11-23 05:41 UTC
 
-## New worldwide signal items (1)
-_Unverified news signal — check each before citing in an episode._
-
-### AU
-- [Mothers Apply for Adoption Redress - Meg Webb MLC](https://news.google.com/rss/articles/CBMidEFVX3lxTFBCUjMxZmh5YnhKOXI3d0dRZWJBLXZnQkt6b2ZVRGdwUFQwUWRlLWFfc1pkajJmdFdFV1N1dm5GM3NrY3pXNkdTOGV4cExtNGh6N0lELW5kWkdDSm9fWWdpM1JfWHBkN2xreDdwNi1kWjBoVVFO?oc=5) — Meg Webb MLC (Fri, 20 Nov 2026 08:00:00 GMT) — topic: _forced adoption redress scheme_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-22 23:12 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-23 05:41 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
