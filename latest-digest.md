@@ -1,12 +1,17 @@
-# TD Global Policy Watch — 2026-11-24 03:47 UTC
+# TD Global Policy Watch — 2026-11-24 16:56 UTC
 
-No new items this run.
+## New worldwide signal items (1)
+_Unverified news signal — check each before citing in an episode._
+
+### GB
+- [Court overturns Benoni adoption service’s accreditation, DSD to pay legal costs - The Citizen](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVHJrNFIzTkNXZ0oyTXVFX3FSSnEwakRKQjFRTjdqQVVDRjA0WVV6aklYMXVkNGowWFFkR2NPbTE5bE5WVnFLTFRWUlNFbFhldllab1JzTUhsSHlIdmpGcU9ycWU4TndoSEtvTG9qNTlFLWZ0LWVKcXFXVjQ3YU0xNlF6d3EzaUpneTBFR2RRVDYxbUZDZ2phbmdOTUxraUwxT0Z6WkxiWEhxQThKS0E4Y0RRTTFwWW1KWjhZalhsS1FSQzlxZTBfaE1UT2pvbWJXcy1PMTZ3SWVrSHMwbkxrbDBR?oc=5) — The Citizen (Mon, 23 Nov 2026 17:31:41 GMT) — topic: _intercountry adoption suspended_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-24 03:46 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-24 16:56 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
