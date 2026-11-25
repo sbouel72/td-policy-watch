@@ -1,20 +1,17 @@
-# TD Global Policy Watch — 2026-11-25 01:54 UTC
+# TD Global Policy Watch — 2026-11-25 16:46 UTC
 
-## New worldwide signal items (2)
+## New worldwide signal items (1)
 _Unverified news signal — check each before citing in an episode._
 
 ### AU
-- [UniMAC records 57.6% graduate surge, welcomes first Chancellor amid AI reforms - Asaase Radio](https://news.google.com/rss/articles/CBMiowFBVV95cUxPVElzcmlzUzA0b0Vwd3ljejVsdmQzRzBHSG1NZ0tzWEktQUdkNTVVeENaQm1qWXNmV0J6M1R2SDlIWlRzS2o0Q2lBYzFBRWEwUzVNRWJTRG9fWURYU1hodTdReUEtRzdWMGlWQkk1V2VmSE9tSUMtTVdvX2lSdW5URUdZS1daaGZPV1hKamVVYWtURk43WExMVEZKZTBDaG14SFVR?oc=5) — Asaase Radio (Tue, 24 Nov 2026 17:22:28 GMT) — topic: _closed adoption records reform_
-
-### NZ
-- [Surrogacy Austria 2026: Legal Status, Parentage and Cross-border Routes - Global Advisory Experts](https://news.google.com/rss/articles/CBMijAFBVV95cUxNQnBjTFZtSkNmQTdQZVN1Nk9nTzJoQjJPeGVEUDdLdnViMndRSThqdHlYQThMY2I5RDJkZzNJeTdxSTRUVTlUTl9DdUs4WnptRnhIZ0FFb2pWRGFyRDJ5Tjhwd2JwV3hROVBuRldRcEtzdEIwOTU2a2YwODMwcmtnb282QVpfeEJ3ZG9DRA?oc=5) — Global Advisory Experts (Mon, 23 Nov 2026 15:24:26 GMT) — topic: _birth parent registry law_
+- [Forced Adoptions – Redress for Adoptees - Tasmanian Greens MPs](https://news.google.com/rss/articles/CBMif0FVX3lxTE9jbnhoS05zaU43Yk5wX3I4RW5MTVRvOFFXcXR2SHh2OFZIZ3VxZzNESGhta2d3LUVua2NhWERzemxTNm5oMWJFcUdRR0djTGMzaFZZQkM0Tll3a2xFUXNKeFdFTl9UWkFGSTcwYlhpUzJ5ZjBoMEg2LVRqZG8tamM?oc=5) — Tasmanian Greens MPs (Wed, 25 Nov 2026 03:51:14 GMT) — topic: _forced adoption redress scheme_
 
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-25 01:53 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-25 16:45 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
