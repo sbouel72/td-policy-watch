@@ -1,17 +1,12 @@
-# TD Global Policy Watch — 2026-11-25 16:46 UTC
+# TD Global Policy Watch — 2026-11-26 01:32 UTC
 
-## New worldwide signal items (1)
-_Unverified news signal — check each before citing in an episode._
-
-### AU
-- [Forced Adoptions – Redress for Adoptees - Tasmanian Greens MPs](https://news.google.com/rss/articles/CBMif0FVX3lxTE9jbnhoS05zaU43Yk5wX3I4RW5MTVRvOFFXcXR2SHh2OFZIZ3VxZzNESGhta2d3LUVua2NhWERzemxTNm5oMWJFcUdRR0djTGMzaFZZQkM0Tll3a2xFUXNKeFdFTl9UWkFGSTcwYlhpUzJ5ZjBoMEg2LVRqZG8tamM?oc=5) — Tasmanian Greens MPs (Wed, 25 Nov 2026 03:51:14 GMT) — topic: _forced adoption redress scheme_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-25 16:45 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-26 01:31 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
