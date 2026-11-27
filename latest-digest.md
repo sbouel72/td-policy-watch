@@ -1,12 +1,17 @@
-# TD Global Policy Watch — 2026-11-27 01:28 UTC
+# TD Global Policy Watch — 2026-11-27 16:06 UTC
 
-No new items this run.
+## New worldwide signal items (1)
+_Unverified news signal — check each before citing in an episode._
+
+### CA
+- [Birth registration according to new regulations - Laodong.vn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQaUN4b0Zmd3VWQ2JQQzFzLUtNMm9MTDBwOHg4cXFNUmFYUDZTU0tXVjdUeENfc0tEemJJUUw2ekdya2kxdF9iaDhzVEtjZWZvLTlpRDcxWTYtSWtNRjZCZUhnalltWjZqdFFUdmRvQmtvcUdvYnQ2WGZpYXZSZDA5V0toYkJsMnphUWZwOUNYaUtGZw?oc=5) — Laodong.vn (Fri, 27 Nov 2026 03:00:00 GMT) — topic: _birth parent registry law_
+
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-27 01:28 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-27 16:05 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
