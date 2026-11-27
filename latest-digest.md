@@ -1,22 +1,12 @@
-# TD Global Policy Watch — 2026-11-26 16:22 UTC
+# TD Global Policy Watch — 2026-11-27 01:28 UTC
 
-## New worldwide signal items (4)
-_Unverified news signal — check each before citing in an episode._
-
-### CA
-- [Securing Autonomous Financial Operations: Inside Microsoft’s Agentic AI Fraud Intelligence Hackathon & Frontier Council + Video - Howl.Link](https://news.google.com/rss/articles/CBMiO0FVX3lxTE5ob2Q3TkVjcTM1RFlBdDE0ZHM0bEhLWWJ3VFQzbHBwYzF1X3k5dzhYbWRFZFZqUkFNRVA4?oc=5) — Howl.Link (Thu, 26 Nov 2026 10:00:00 GMT) — topic: _adoption agency investigation fraud_
-- [Children’s futures at risk due to lack of birth registration - The Rising Nepal](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tXzQzN25WelpUbjFjc2QyWkxGNHR2dndNdWNYbmFhZGVOeEg0c0I0WGFKWXMwbFpFUmZyRzV1eGJIRTZ2Ykw4c3NoQU9vV2Frc0lrczRR?oc=5) — The Rising Nepal (Thu, 26 Nov 2026 04:09:45 GMT) — topic: _birth parent registry law_
-- [Saskatchewan proposes adoption law changes to strengthen family ties - SaskToday.ca](https://news.google.com/rss/articles/CBMiugFBVV95cUxNMTlIcEhzYWJvdkotY215TWZZR3R4VXN6UEs1M1c4YWdoM0g3WGZtMERiTUpOUnhkUDZJZEhfb0h6MmlldFc2Ny14Y2tQRklBaXRIczIwb2twcnJjd0hYTk1TX20ycl9acjAySXAzUnYzcWxrbDBRc3BacXdlZkpITUNRMWZ4bV96NHpKRzRabHR3WGRtdGwxakFqYkd0MzVzZm91bFBvUTdqX2E0N1RCaGhTeUxzVFEzdHc?oc=5) — SaskToday.ca (Thu, 26 Nov 2026 15:08:00 GMT) — topic: _birth parent registry law_
-
-### US
-- [State Rules Cannot Override Parent Act: Karnataka HC Quashes Birth & Death Registration Amendment - TaxGuru](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZFdWMnk3U2V3Qlg5RG1JR3JXX1NsUzBhSXZNNFlUcVVnNW8yeWdQWXB2Z21tbVc0LTh2YmYwN1E5X1RIRmVtcy1jZ1FFdmlObkdnR1ZfTE9kSHd5WW9RbFg1Y2FDZy11RE9HemJqcEgxbDUxYThaUzZwVHljOTZITjBzZEZtOUc1emZEMUVqVnlrMUZObGhOMWk4VC1zcGJ1Yy1ZRFZPSGdBU2tOR0hjYU50cTZLZVpjcWRyblVvRUVGakxfVGJkX3lxeVc?oc=5) — TaxGuru (Thu, 26 Nov 2026 09:43:44 GMT) — topic: _birth parent registry law_
-
+No new items this run.
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-26 16:21 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-27 01:28 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
