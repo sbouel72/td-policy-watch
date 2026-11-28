@@ -1,17 +1,18 @@
-# TD Global Policy Watch — 2026-11-27 16:06 UTC
+# TD Global Policy Watch — 2026-11-28 01:03 UTC
 
-## New worldwide signal items (1)
+## New worldwide signal items (2)
 _Unverified news signal — check each before citing in an episode._
 
 ### CA
-- [Birth registration according to new regulations - Laodong.vn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQaUN4b0Zmd3VWQ2JQQzFzLUtNMm9MTDBwOHg4cXFNUmFYUDZTU0tXVjdUeENfc0tEemJJUUw2ekdya2kxdF9iaDhzVEtjZWZvLTlpRDcxWTYtSWtNRjZCZUhnalltWjZqdFFUdmRvQmtvcUdvYnQ2WGZpYXZSZDA5V0toYkJsMnphUWZwOUNYaUtGZw?oc=5) — Laodong.vn (Fri, 27 Nov 2026 03:00:00 GMT) — topic: _birth parent registry law_
+- [Sort it from abroad: How to register your baby's birth and get a Ghana passport - 3News](https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXRhaTFJYnVjT2JJLUtVWDhuOUNmanZTLUlRSFgxekxRY29LUy16UlBDcDRVUnREaUhyRDZjZ1ExTUNINVIxTk03ODQ3Y28zLWYxYU95Uk9abzNjbnNUOHVjYkNXSEVBZjNNSnhHeVBiRzhkUEJHM01tYjhJRkZYallUWFMweFlZalNNdFlBWQ?oc=5) — 3News (Tue, 24 Nov 2026 11:48:00 GMT) — topic: _birth parent registry law_
+- [Saskatchewan proposes adoption law changes to strengthen family ties - MooseJawToday.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWThmc3puYUYxMnVQaUoxYWI4N2VYZGtYa0tKT3RhU3FyN21LNXRqRFhyWEQ4c2lFOHNXeFlKSXVwcVBNMHl1ME5vWWwxckpwUC0wVnA5b2IwUWRadzlNQ1d2S1ZQUnlwdTVFOE44bjViZTJFeURreWhBdUJKM1pENlFkclpIVGw2MU5vYTM4VDVCU2VJTzY0RVF3QVNpeHQxcUlEWU9XX3dNVTBCdG9CQWl5alU5dE1NOTZ0Z3ZXTEs?oc=5) — MooseJawToday.com (Thu, 26 Nov 2026 15:08:00 GMT) — topic: _birth parent registry law_
 
 ---
 
 ## AALS v2.0 — mechanism analyzer status
 _Separate subsystem: citation-gated comparative analysis of adoption record-access mechanisms. Regenerated fresh each run from `state/mechanism-dataset.json`; makes no claim about intent or coordination. Full methodology in README.md._
 
-# AALS v2.0 — Mechanism Analysis — 2026-11-27 16:05 UTC
+# AALS v2.0 — Mechanism Analysis — 2026-11-28 01:03 UTC
 
 **Dataset:** 2 verified of 2 rows (0 awaiting source/verification).
 
